@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<lists>
+  <list path=".">
+    <entry kind="dir">
+      <name>Dir1</name>
+      <commit revision="1">
+        <author>alvin</author>
+        <date>2016-01-01T16:17:28.030179Z</date>
+      </commit>
+    </entry>
+    <entry kind="dir">
+      <name>Dir2</name>
+      <commit revision="2">
+        <author>pablo</author>
+        <date>2016-01-02T16:17:28.030179Z</date>
+      </commit>
+    </entry>
+    <entry kind="dir">
+      <name>Dir1/Dir3</name>
+      <commit revision="3">
+        <author>simon</author>
+        <date>2016-01-03T16:17:28.030179Z</date>
+      </commit>
+    </entry>
+    <entry kind="file">
+      <name>Dir1/Dir3/f1.txt</name>
+      <commit revision="10">
+        <author>theodore</author>
+        <date>2016-01-04T16:17:28.030179Z</date>
+      </commit>
+    </entry>
+    <entry kind="file">
+      <name>Dir2/f2.java</name>
+      <commit revision="10">
+        <author>hobbes</author>
+        <date>2016-01-05T16:17:28.030179Z</date>
+      </commit>
+    </entry>
+    <entry kind="dir">
+      <name>Dir1/Dir4</name>
+      <commit revision="11">
+        <author>hobbes</author>
+        <date>2016-01-06T16:17:28.030179Z</date>
+      </commit>
+    </entry>
+  </list>
+</lists>

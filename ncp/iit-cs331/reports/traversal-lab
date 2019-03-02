@@ -1,0 +1,43 @@
+Grading Script Report for aling
+Lab: Traversal Lab
+Timestamp: 2012-04-03 14:26:21.462216
+
+* Summary
+Test                      Result             Max Score
+Testing Student's BST     Tests Passed       25  25   
+Testing Student's Tests   Tests Passed       5   5    
+BFS Iterator Doesn't Work Your tests worked. 5   5    
+DFS Iterator Doesn't Work Your tests worked. 5   5    
+Preorder Doesnt' Work     Your tests worked. 5   5    
+Inorder Doesnt' Work      Your tests worked. 5   5    
+Postorder Doesnt' Work    Your tests worked. 5   5    
+Frontier Doesnt' Work     Your tests worked. 5   5    
+
+
+Total Score: 60/60
+
+* Details
+Testing Student's BST details:
+
+
+Testing Student's Tests details:
+
+
+BFS Iterator Doesn't Work details:
+
+
+DFS Iterator Doesn't Work details:
+
+
+Preorder Doesnt' Work details:
+
+
+Inorder Doesnt' Work details:
+
+
+Postorder Doesnt' Work details:
+
+
+Frontier Doesnt' Work details:
+
+

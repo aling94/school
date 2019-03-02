@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<log>
+  <logentry revision="1">
+    <author>alvin</author>
+    <date>2016-01-01T19:36:37.557647Z</date>
+    <paths>
+      <path kind="file" action="M">/aling3/Dir1/Dir3/f1.txt</path>
+      <path kind="file" action="M">/aling3/Dir2/f2.java</path>
+    </paths>
+    <msg>1 alvin both</msg>
+  </logentry>
+  <logentry revision="2">
+    <author>simon</author>
+    <date>2016-01-02T19:36:37.557647Z</date>
+    <paths>
+      <path kind="file" action="M">/aling3/Dir1/Dir3/f1.txt</path>
+    </paths>
+    <msg>2 simon f1</msg>
+  </logentry>
+  <logentry revision="3">
+    <author>simon</author>
+    <date>2016-01-03T19:36:37.557647Z</date>
+    <paths>
+      <path kind="file" action="M">/aling3/Dir1/Dir3/f1.txt</path>
+    </paths>
+    <msg>3 simon f1</msg>
+  </logentry>
+  <logentry revision="4">
+    <author>theo</author>
+    <date>2016-01-04T19:36:37.557647Z</date>
+    <paths>
+      <path kind="file" action="M">/aling3/Dir2/f2.java</path>
+    </paths>
+    <msg>4 theo f2</msg>
+  </logentry>
+  <logentry revision="5">
+    <author>pablo</author>
+    <date>2016-01-05T19:36:37.557647Z</date>
+    <paths>
+      <path kind="file" action="M">/aling3/Dir1/Dir3/f1.txt</path>
+      <path kind="file" action="M">/aling3/Dir2/f2.java</path>
+    </paths>
+    <msg>5 pablo both</msg>
+  </logentry>
+</log>

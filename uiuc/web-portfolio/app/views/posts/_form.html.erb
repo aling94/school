@@ -1,0 +1,18 @@
+<!-- Partial for new post form -->
+
+<%= form_for @post do |f| %>
+    <% if @post.errors.any? %>
+        <div id="errors">
+          <h4 style="color:red"><%= pluralize(@post.errors.count, "error") %> prevented this post from saving:</h4>
+          <ul>
+            <% @post.errors.full_messages.each do |msg| %>
+                <li><%= msg %></li>
+            <% end %>
+          </ul>
+        </div>
+    <% end %>
+    <p><%= f.text_field :name, :placeholder => 'Name', :class => 'name-input' %></p>
+    <p><%= f.text_area :body, :placeholder => 'Body', :class => 'body-input' %></p>
+    <%= hidden_field_tag :proj, @tree.name %>
+    <%= f.submit %>
+<% end %>

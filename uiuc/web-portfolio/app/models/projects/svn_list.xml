@@ -1,0 +1,4169 @@
+<?xml version="1.0"?>
+<lists>
+<list
+   path=".">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="2115">
+<author>aling3</author>
+<date>2016-01-29T01:15:08.499127Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/part1</name>
+<commit
+   revision="1476">
+<author>aling3</author>
+<date>2016-01-28T06:30:38.859326Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/part1/shopping</name>
+<commit
+   revision="1476">
+<author>aling3</author>
+<date>2016-01-28T06:30:38.859326Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part1/shopping/list1.txt</name>
+<size>56</size>
+<commit
+   revision="1476">
+<author>aling3</author>
+<date>2016-01-28T06:30:38.859326Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part1/shopping/list2.txt</name>
+<size>76</size>
+<commit
+   revision="1476">
+<author>aling3</author>
+<date>2016-01-28T06:30:38.859326Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/part2</name>
+<commit
+   revision="2106">
+<author>aling3</author>
+<date>2016-01-29T00:51:49.802918Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/part2/HW0</name>
+<commit
+   revision="2106">
+<author>aling3</author>
+<date>2016-01-29T00:51:49.802918Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/.classpath</name>
+<size>307</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/.project</name>
+<size>362</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/part2/HW0/.settings</name>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>629</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/part2/HW0/bin</name>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/part2/HW0/bin/lanSimulation</name>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/bin/lanSimulation/LANSimulation.class</name>
+<size>4544</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/bin/lanSimulation/Network.class</name>
+<size>7873</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/part2/HW0/bin/lanSimulation/internals</name>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/bin/lanSimulation/internals/Node.class</name>
+<size>1218</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/bin/lanSimulation/internals/Packet.class</name>
+<size>717</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/part2/HW0/bin/lanSimulation/tests</name>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</name>
+<size>1082</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/bin/lanSimulation/tests/LANTests.class</name>
+<size>9528</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/part2/HW0/doc</name>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/part2/HW0/src</name>
+<commit
+   revision="2106">
+<author>aling3</author>
+<date>2016-01-29T00:51:49.802918Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/part2/HW0/src/lanSimulation</name>
+<commit
+   revision="2106">
+<author>aling3</author>
+<date>2016-01-29T00:51:49.802918Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/src/lanSimulation/LANSimulation.java</name>
+<size>5845</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/src/lanSimulation/Network.java</name>
+<size>11583</size>
+<commit
+   revision="2106">
+<author>aling3</author>
+<date>2016-01-29T00:51:49.802918Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/part2/HW0/src/lanSimulation/internals</name>
+<commit
+   revision="2106">
+<author>aling3</author>
+<date>2016-01-29T00:51:49.802918Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/src/lanSimulation/internals/Node.java</name>
+<size>4475</size>
+<commit
+   revision="2106">
+<author>aling3</author>
+<date>2016-01-29T00:51:49.802918Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/part2/HW0/src/lanSimulation/tests</name>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/src/lanSimulation/tests/LANTests.java</name>
+<size>10293</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part2/HW0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/part3</name>
+<commit
+   revision="2115">
+<author>aling3</author>
+<date>2016-01-29T01:15:08.499127Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/part3/mpmerge</name>
+<commit
+   revision="2115">
+<author>aling3</author>
+<date>2016-01-29T01:15:08.499127Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part3/mpmerge/Makefile</name>
+<size>7672</size>
+<commit
+   revision="2115">
+<author>aling3</author>
+<date>2016-01-29T01:15:08.499127Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part3/mpmerge/base.c</name>
+<size>2072</size>
+<commit
+   revision="2115">
+<author>aling3</author>
+<date>2016-01-29T01:15:08.499127Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part3/mpmerge/baseline_nothread_mergesort.c</name>
+<size>1167</size>
+<commit
+   revision="2115">
+<author>aling3</author>
+<date>2016-01-29T01:15:08.499127Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part3/mpmerge/blocking_ring_buffer.c</name>
+<size>1849</size>
+<commit
+   revision="2115">
+<author>aling3</author>
+<date>2016-01-29T01:15:08.499127Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part3/mpmerge/blocking_ring_buffer.h</name>
+<size>754</size>
+<commit
+   revision="2115">
+<author>aling3</author>
+<date>2016-01-29T01:15:08.499127Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/part3/mpmerge/data</name>
+<commit
+   revision="2115">
+<author>aling3</author>
+<date>2016-01-29T01:15:08.499127Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part3/mpmerge/gen.c</name>
+<size>2809</size>
+<commit
+   revision="2115">
+<author>aling3</author>
+<date>2016-01-29T01:15:08.499127Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part3/mpmerge/index.html</name>
+<size>23156</size>
+<commit
+   revision="2115">
+<author>aling3</author>
+<date>2016-01-29T01:15:08.499127Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part3/mpmerge/main.c</name>
+<size>1879</size>
+<commit
+   revision="2115">
+<author>aling3</author>
+<date>2016-01-29T01:15:08.499127Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part3/mpmerge/mpsortutil.c</name>
+<size>3372</size>
+<commit
+   revision="2115">
+<author>aling3</author>
+<date>2016-01-29T01:15:08.499127Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part3/mpmerge/mpsortutil.h</name>
+<size>3798</size>
+<commit
+   revision="2115">
+<author>aling3</author>
+<date>2016-01-29T01:15:08.499127Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part3/mpmerge/multithreadedsort.c</name>
+<size>4041</size>
+<commit
+   revision="2115">
+<author>aling3</author>
+<date>2016-01-29T01:15:08.499127Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part3/mpmerge/streamingsort.c</name>
+<size>7138</size>
+<commit
+   revision="2115">
+<author>aling3</author>
+<date>2016-01-29T01:15:08.499127Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part3/mpmerge/tester.c</name>
+<size>1131</size>
+<commit
+   revision="2115">
+<author>aling3</author>
+<date>2016-01-29T01:15:08.499127Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/part3/mpmerge/testqueue.c</name>
+<size>5372</size>
+<commit
+   revision="2115">
+<author>aling3</author>
+<date>2016-01-29T01:15:08.499127Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="3776">
+<author>aling3</author>
+<date>2016-02-05T16:17:28.030179Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea</name>
+<commit
+   revision="3248">
+<author>aling3</author>
+<date>2016-02-04T03:04:59.745149Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="3000">
+<author>aling3</author>
+<date>2016-02-02T01:20:07.516708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="3000">
+<author>aling3</author>
+<date>2016-02-02T01:20:07.516708Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea/copyright</name>
+<commit
+   revision="3000">
+<author>aling3</author>
+<date>2016-02-02T01:20:07.516708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/copyright/profiles_settings.xml</name>
+<size>76</size>
+<commit
+   revision="3000">
+<author>aling3</author>
+<date>2016-02-02T01:20:07.516708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="3000">
+<author>aling3</author>
+<date>2016-02-02T01:20:07.516708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/misc.xml</name>
+<size>1593</size>
+<commit
+   revision="3248">
+<author>aling3</author>
+<date>2016-02-04T03:04:59.745149Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/modules.xml</name>
+<size>250</size>
+<commit
+   revision="3000">
+<author>aling3</author>
+<date>2016-02-02T01:20:07.516708Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/vcs.xml</name>
+<size>167</size>
+<commit
+   revision="3248">
+<author>aling3</author>
+<date>2016-02-04T03:04:59.745149Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Chess.iml</name>
+<size>1624</size>
+<commit
+   revision="3775">
+<author>aling3</author>
+<date>2016-02-05T16:16:12.335698Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src</name>
+<commit
+   revision="3775">
+<author>aling3</author>
+<date>2016-02-05T16:16:12.335698Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/Chess</name>
+<commit
+   revision="3775">
+<author>aling3</author>
+<date>2016-02-05T16:16:12.335698Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/Bishop.java</name>
+<size>754</size>
+<commit
+   revision="3727">
+<author>aling3</author>
+<date>2016-02-05T09:54:37.138597Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/Board.java</name>
+<size>4550</size>
+<commit
+   revision="3727">
+<author>aling3</author>
+<date>2016-02-05T09:54:37.138597Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/ChessGame.java</name>
+<size>9175</size>
+<commit
+   revision="3775">
+<author>aling3</author>
+<date>2016-02-05T16:16:12.335698Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/GameValues.java</name>
+<size>110</size>
+<commit
+   revision="3248">
+<author>aling3</author>
+<date>2016-02-04T03:04:59.745149Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/King.java</name>
+<size>1397</size>
+<commit
+   revision="3727">
+<author>aling3</author>
+<date>2016-02-05T09:54:37.138597Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/Knight.java</name>
+<size>1308</size>
+<commit
+   revision="3727">
+<author>aling3</author>
+<date>2016-02-05T09:54:37.138597Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/Pawn.java</name>
+<size>1772</size>
+<commit
+   revision="3727">
+<author>aling3</author>
+<date>2016-02-05T09:54:37.138597Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/Piece.java</name>
+<size>3398</size>
+<commit
+   revision="3727">
+<author>aling3</author>
+<date>2016-02-05T09:54:37.138597Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/Queen.java</name>
+<size>911</size>
+<commit
+   revision="3727">
+<author>aling3</author>
+<date>2016-02-05T09:54:37.138597Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/Rook.java</name>
+<size>768</size>
+<commit
+   revision="3727">
+<author>aling3</author>
+<date>2016-02-05T09:54:37.138597Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/Square.java</name>
+<size>504</size>
+<commit
+   revision="3248">
+<author>aling3</author>
+<date>2016-02-04T03:04:59.745149Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/test</name>
+<commit
+   revision="3776">
+<author>aling3</author>
+<date>2016-02-05T16:17:28.030179Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/test/Chess</name>
+<commit
+   revision="3776">
+<author>aling3</author>
+<date>2016-02-05T16:17:28.030179Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/Chess/BishopTest.java</name>
+<size>3394</size>
+<commit
+   revision="3743">
+<author>aling3</author>
+<date>2016-02-05T10:53:33.232223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/Chess/BoardTest.java</name>
+<size>2093</size>
+<commit
+   revision="3743">
+<author>aling3</author>
+<date>2016-02-05T10:53:33.232223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/Chess/ChessGameTest.java</name>
+<size>8743</size>
+<commit
+   revision="3776">
+<author>aling3</author>
+<date>2016-02-05T16:17:28.030179Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/Chess/KingTest.java</name>
+<size>2043</size>
+<commit
+   revision="3743">
+<author>aling3</author>
+<date>2016-02-05T10:53:33.232223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/Chess/KnightTest.java</name>
+<size>2823</size>
+<commit
+   revision="3743">
+<author>aling3</author>
+<date>2016-02-05T10:53:33.232223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/Chess/PawnTest.java</name>
+<size>3403</size>
+<commit
+   revision="3743">
+<author>aling3</author>
+<date>2016-02-05T10:53:33.232223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/Chess/PieceTest.java</name>
+<size>2080</size>
+<commit
+   revision="3743">
+<author>aling3</author>
+<date>2016-02-05T10:53:33.232223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/Chess/PieceTester.java</name>
+<size>418</size>
+<commit
+   revision="3743">
+<author>aling3</author>
+<date>2016-02-05T10:53:33.232223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/Chess/RookTest.java</name>
+<size>3631</size>
+<commit
+   revision="3743">
+<author>aling3</author>
+<date>2016-02-05T10:53:33.232223Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/Chess/SquareTest.java</name>
+<size>1201</size>
+<commit
+   revision="3743">
+<author>aling3</author>
+<date>2016-02-05T10:53:33.232223Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/test/resources</name>
+<commit
+   revision="3272">
+<author>aling3</author>
+<date>2016-02-04T04:41:02.598692Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="4978">
+<author>aling3</author>
+<date>2016-02-12T02:41:19.953860Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea</name>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/codeStyleSettings.xml</name>
+<size>393</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea/copyright</name>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/copyright/profiles_settings.xml</name>
+<size>76</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/misc.xml</name>
+<size>1593</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/modules.xml</name>
+<size>250</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/vcs.xml</name>
+<size>167</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Chess.iml</name>
+<size>1816</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>77206</size>
+<commit
+   revision="4414">
+<author>aling3</author>
+<date>2016-02-10T17:54:55.118226Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src</name>
+<commit
+   revision="4978">
+<author>aling3</author>
+<date>2016-02-12T02:41:19.953860Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/main</name>
+<commit
+   revision="4978">
+<author>aling3</author>
+<date>2016-02-12T02:41:19.953860Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/main/java</name>
+<commit
+   revision="4978">
+<author>aling3</author>
+<date>2016-02-12T02:41:19.953860Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/main/java/Chess</name>
+<commit
+   revision="4978">
+<author>aling3</author>
+<date>2016-02-12T02:41:19.953860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/java/Chess/Board.java</name>
+<size>4996</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/main/java/Chess/Game</name>
+<commit
+   revision="4978">
+<author>aling3</author>
+<date>2016-02-12T02:41:19.953860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/java/Chess/Game/ChessGame.java</name>
+<size>2534</size>
+<commit
+   revision="4978">
+<author>aling3</author>
+<date>2016-02-12T02:41:19.953860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/java/Chess/Game/CustomChessGame.java</name>
+<size>1676</size>
+<commit
+   revision="4978">
+<author>aling3</author>
+<date>2016-02-12T02:41:19.953860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/java/Chess/Game/Game.java</name>
+<size>7609</size>
+<commit
+   revision="4978">
+<author>aling3</author>
+<date>2016-02-12T02:41:19.953860Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/main/java/Chess/Pieces</name>
+<commit
+   revision="4978">
+<author>aling3</author>
+<date>2016-02-12T02:41:19.953860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/java/Chess/Pieces/Bishop.java</name>
+<size>822</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/java/Chess/Pieces/Empress.java</name>
+<size>1506</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/java/Chess/Pieces/King.java</name>
+<size>1090</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/java/Chess/Pieces/Knight.java</name>
+<size>1040</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/java/Chess/Pieces/Pawn.java</name>
+<size>1897</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/java/Chess/Pieces/Piece.java</name>
+<size>5959</size>
+<commit
+   revision="4978">
+<author>aling3</author>
+<date>2016-02-12T02:41:19.953860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/java/Chess/Pieces/Princess.java</name>
+<size>1491</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/java/Chess/Pieces/Queen.java</name>
+<size>749</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/java/Chess/Pieces/Rook.java</name>
+<size>836</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/java/Chess/Square.java</name>
+<size>1020</size>
+<commit
+   revision="4978">
+<author>aling3</author>
+<date>2016-02-12T02:41:19.953860Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/main/java/ChessGUI</name>
+<commit
+   revision="4978">
+<author>aling3</author>
+<date>2016-02-12T02:41:19.953860Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/java/ChessGUI/ChessGUI.java</name>
+<size>4386</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/java/ChessGUI/PieceIcons.java</name>
+<size>3794</size>
+<commit
+   revision="4978">
+<author>aling3</author>
+<date>2016-02-12T02:41:19.953860Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/main/resources</name>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/main/resources/ChessGUI</name>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/main/resources/ChessGUI/chesspieces</name>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/resources/ChessGUI/chesspieces/bb.png</name>
+<size>1260</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/resources/ChessGUI/chesspieces/bw.png</name>
+<size>1944</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/resources/ChessGUI/chesspieces/cb.PNG</name>
+<size>4302</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/resources/ChessGUI/chesspieces/cw.png</name>
+<size>4866</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/resources/ChessGUI/chesspieces/eb.PNG</name>
+<size>4137</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/resources/ChessGUI/chesspieces/ew.PNG</name>
+<size>4576</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/resources/ChessGUI/chesspieces/kb.png</name>
+<size>2485</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/resources/ChessGUI/chesspieces/kw.png</name>
+<size>2279</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/resources/ChessGUI/chesspieces/nb.png</name>
+<size>1516</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/resources/ChessGUI/chesspieces/nw.png</name>
+<size>1878</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/resources/ChessGUI/chesspieces/pb.png</name>
+<size>797</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/resources/ChessGUI/chesspieces/pw.png</name>
+<size>1294</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/resources/ChessGUI/chesspieces/qb.png</name>
+<size>2267</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/resources/ChessGUI/chesspieces/qw.png</name>
+<size>2637</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/resources/ChessGUI/chesspieces/rb.png</name>
+<size>725</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/main/resources/ChessGUI/chesspieces/rw.png</name>
+<size>933</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/test</name>
+<commit
+   revision="4970">
+<author>aling3</author>
+<date>2016-02-12T02:19:15.579935Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/test/java</name>
+<commit
+   revision="4970">
+<author>aling3</author>
+<date>2016-02-12T02:19:15.579935Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/test/java/Chess</name>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/java/Chess/BoardTest.java</name>
+<size>3163</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/test/java/Chess/Game</name>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/java/Chess/Game/ChessGameTest.java</name>
+<size>8800</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/java/Chess/Game/CustomChessGameTest.java</name>
+<size>3651</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/test/java/Chess/Pieces</name>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/java/Chess/Pieces/BishopTest.java</name>
+<size>3435</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/java/Chess/Pieces/KingTest.java</name>
+<size>2084</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/java/Chess/Pieces/KnightTest.java</name>
+<size>2864</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/java/Chess/Pieces/PawnTest.java</name>
+<size>3437</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/java/Chess/Pieces/PieceTest.java</name>
+<size>2200</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/java/Chess/Pieces/PieceTester.java</name>
+<size>470</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/java/Chess/Pieces/RookTest.java</name>
+<size>3672</size>
+<commit
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/java/Chess/SquareTest.java</name>
+<size>1201</size>
+<commit
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/test/java/ChessGUI</name>
+<commit
+   revision="4970">
+<author>aling3</author>
+<date>2016-02-12T02:19:15.579935Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/test/java/ChessGUI/ManualTestPlan.pdf</name>
+<size>281098</size>
+<commit
+   revision="4970">
+<author>aling3</author>
+<date>2016-02-12T02:19:15.579935Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="6185">
+<author>aling3</author>
+<date>2016-02-19T00:29:17.049121Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.idea</name>
+<commit
+   revision="5525">
+<author>aling3</author>
+<date>2016-02-15T17:37:47.761947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/.name</name>
+<size>5</size>
+<commit
+   revision="5525">
+<author>aling3</author>
+<date>2016-02-15T17:37:47.761947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/codeStyleSettings.xml</name>
+<size>393</size>
+<commit
+   revision="5525">
+<author>aling3</author>
+<date>2016-02-15T17:37:47.761947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="5525">
+<author>aling3</author>
+<date>2016-02-15T17:37:47.761947Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.idea/copyright</name>
+<commit
+   revision="5525">
+<author>aling3</author>
+<date>2016-02-15T17:37:47.761947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/copyright/profiles_settings.xml</name>
+<size>76</size>
+<commit
+   revision="5525">
+<author>aling3</author>
+<date>2016-02-15T17:37:47.761947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="5525">
+<author>aling3</author>
+<date>2016-02-15T17:37:47.761947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/misc.xml</name>
+<size>1593</size>
+<commit
+   revision="5525">
+<author>aling3</author>
+<date>2016-02-15T17:37:47.761947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/modules.xml</name>
+<size>250</size>
+<commit
+   revision="5525">
+<author>aling3</author>
+<date>2016-02-15T17:37:47.761947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/vcs.xml</name>
+<size>167</size>
+<commit
+   revision="5525">
+<author>aling3</author>
+<date>2016-02-15T17:37:47.761947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Chess.iml</name>
+<size>1816</size>
+<commit
+   revision="5525">
+<author>aling3</author>
+<date>2016-02-15T17:37:47.761947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Doxyfile</name>
+<size>77206</size>
+<commit
+   revision="5525">
+<author>aling3</author>
+<date>2016-02-15T17:37:47.761947Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src</name>
+<commit
+   revision="6185">
+<author>aling3</author>
+<date>2016-02-19T00:29:17.049121Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/main</name>
+<commit
+   revision="6162">
+<author>aling3</author>
+<date>2016-02-18T23:32:48.170358Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/main/java</name>
+<commit
+   revision="6162">
+<author>aling3</author>
+<date>2016-02-18T23:32:48.170358Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/main/java/Chess</name>
+<commit
+   revision="5887">
+<author>aling3</author>
+<date>2016-02-18T04:10:27.764150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/Chess/Board.java</name>
+<size>4996</size>
+<commit
+   revision="5525">
+<author>aling3</author>
+<date>2016-02-15T17:37:47.761947Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/main/java/Chess/Game</name>
+<commit
+   revision="5887">
+<author>aling3</author>
+<date>2016-02-18T04:10:27.764150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/Chess/Game/ChessGame.java</name>
+<size>2740</size>
+<commit
+   revision="5885">
+<author>aling3</author>
+<date>2016-02-18T03:42:32.775456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/Chess/Game/CustomChessGame.java</name>
+<size>1890</size>
+<commit
+   revision="5885">
+<author>aling3</author>
+<date>2016-02-18T03:42:32.775456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/Chess/Game/Game.java</name>
+<size>10871</size>
+<commit
+   revision="5887">
+<author>aling3</author>
+<date>2016-02-18T04:10:27.764150Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/Chess/Move.java</name>
+<size>907</size>
+<commit
+   revision="5885">
+<author>aling3</author>
+<date>2016-02-18T03:42:32.775456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/main/java/Chess/Pieces</name>
+<commit
+   revision="5885">
+<author>aling3</author>
+<date>2016-02-18T03:42:32.775456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/Chess/Pieces/Bishop.java</name>
+<size>1057</size>
+<commit
+   revision="5604">
+<author>aling3</author>
+<date>2016-02-16T07:36:20.642694Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/Chess/Pieces/Empress.java</name>
+<size>1733</size>
+<commit
+   revision="5604">
+<author>aling3</author>
+<date>2016-02-16T07:36:20.642694Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/Chess/Pieces/King.java</name>
+<size>1317</size>
+<commit
+   revision="5604">
+<author>aling3</author>
+<date>2016-02-16T07:36:20.642694Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/Chess/Pieces/Knight.java</name>
+<size>1275</size>
+<commit
+   revision="5604">
+<author>aling3</author>
+<date>2016-02-16T07:36:20.642694Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/Chess/Pieces/Pawn.java</name>
+<size>2076</size>
+<commit
+   revision="5604">
+<author>aling3</author>
+<date>2016-02-16T07:36:20.642694Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/Chess/Pieces/Piece.java</name>
+<size>6306</size>
+<commit
+   revision="5604">
+<author>aling3</author>
+<date>2016-02-16T07:36:20.642694Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/Chess/Pieces/PieceIcons.java</name>
+<size>2340</size>
+<commit
+   revision="5885">
+<author>aling3</author>
+<date>2016-02-18T03:42:32.775456Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/Chess/Pieces/Princess.java</name>
+<size>1718</size>
+<commit
+   revision="5604">
+<author>aling3</author>
+<date>2016-02-16T07:36:20.642694Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/Chess/Pieces/Queen.java</name>
+<size>980</size>
+<commit
+   revision="5604">
+<author>aling3</author>
+<date>2016-02-16T07:36:20.642694Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/Chess/Pieces/Rook.java</name>
+<size>1063</size>
+<commit
+   revision="5604">
+<author>aling3</author>
+<date>2016-02-16T07:36:20.642694Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/Chess/Square.java</name>
+<size>1020</size>
+<commit
+   revision="5525">
+<author>aling3</author>
+<date>2016-02-15T17:37:47.761947Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/main/java/ChessGUI</name>
+<commit
+   revision="6162">
+<author>aling3</author>
+<date>2016-02-18T23:32:48.170358Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/ChessGUI/ChessGUI.java</name>
+<size>10577</size>
+<commit
+   revision="6044">
+<author>aling3</author>
+<date>2016-02-18T18:05:25.213517Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/ChessGUI/ChessGUIController.java</name>
+<size>9141</size>
+<commit
+   revision="6162">
+<author>aling3</author>
+<date>2016-02-18T23:32:48.170358Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/ChessGUI/PlayerLabel.java</name>
+<size>2150</size>
+<commit
+   revision="6162">
+<author>aling3</author>
+<date>2016-02-18T23:32:48.170358Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/java/ChessGUI/SquareButton.java</name>
+<size>1728</size>
+<commit
+   revision="5885">
+<author>aling3</author>
+<date>2016-02-18T03:42:32.775456Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/main/resources</name>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/main/resources/Chess</name>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/main/resources/Chess/Pieces</name>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/main/resources/Chess/Pieces/chesspieces</name>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/bb.png</name>
+<size>1260</size>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/bw.png</name>
+<size>1944</size>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/cb.PNG</name>
+<size>4302</size>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/cw.png</name>
+<size>4866</size>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/eb.PNG</name>
+<size>4137</size>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/ew.PNG</name>
+<size>4576</size>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/kb.png</name>
+<size>2485</size>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/kw.png</name>
+<size>2279</size>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/nb.png</name>
+<size>1516</size>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/nw.png</name>
+<size>1878</size>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/pb.png</name>
+<size>797</size>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/pw.png</name>
+<size>1294</size>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/qb.png</name>
+<size>2267</size>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/qw.png</name>
+<size>2637</size>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/rb.png</name>
+<size>725</size>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/rw.png</name>
+<size>933</size>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/test</name>
+<commit
+   revision="6185">
+<author>aling3</author>
+<date>2016-02-19T00:29:17.049121Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/test/java</name>
+<commit
+   revision="6185">
+<author>aling3</author>
+<date>2016-02-19T00:29:17.049121Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/test/java/Chess</name>
+<commit
+   revision="5839">
+<author>aling3</author>
+<date>2016-02-18T00:11:19.926573Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/java/Chess/BoardTest.java</name>
+<size>3192</size>
+<commit
+   revision="5566">
+<author>aling3</author>
+<date>2016-02-16T02:22:34.100862Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/test/java/Chess/Game</name>
+<commit
+   revision="5839">
+<author>aling3</author>
+<date>2016-02-18T00:11:19.926573Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/java/Chess/Game/ChessGameTest.java</name>
+<size>11207</size>
+<commit
+   revision="5839">
+<author>aling3</author>
+<date>2016-02-18T00:11:19.926573Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/java/Chess/Game/CustomChessGameTest.java</name>
+<size>3680</size>
+<commit
+   revision="5566">
+<author>aling3</author>
+<date>2016-02-16T02:22:34.100862Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/test/java/Chess/Pieces</name>
+<commit
+   revision="5566">
+<author>aling3</author>
+<date>2016-02-16T02:22:34.100862Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/java/Chess/Pieces/BishopTest.java</name>
+<size>3525</size>
+<commit
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/java/Chess/Pieces/KingTest.java</name>
+<size>2115</size>
+<commit
+   revision="5566">
+<author>aling3</author>
+<date>2016-02-16T02:22:34.100862Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/java/Chess/Pieces/KnightTest.java</name>
+<size>2895</size>
+<commit
+   revision="5566">
+<author>aling3</author>
+<date>2016-02-16T02:22:34.100862Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/java/Chess/Pieces/PawnTest.java</name>
+<size>3468</size>
+<commit
+   revision="5566">
+<author>aling3</author>
+<date>2016-02-16T02:22:34.100862Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/java/Chess/Pieces/PieceTest.java</name>
+<size>2231</size>
+<commit
+   revision="5566">
+<author>aling3</author>
+<date>2016-02-16T02:22:34.100862Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/java/Chess/Pieces/PieceTester.java</name>
+<size>470</size>
+<commit
+   revision="5525">
+<author>aling3</author>
+<date>2016-02-15T17:37:47.761947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/java/Chess/Pieces/RookTest.java</name>
+<size>3705</size>
+<commit
+   revision="5566">
+<author>aling3</author>
+<date>2016-02-16T02:22:34.100862Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/java/Chess/SquareTest.java</name>
+<size>1201</size>
+<commit
+   revision="5525">
+<author>aling3</author>
+<date>2016-02-15T17:37:47.761947Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/test/java/ChessGUI</name>
+<commit
+   revision="6185">
+<author>aling3</author>
+<date>2016-02-19T00:29:17.049121Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/java/ChessGUI/ManualTestPlan.pdf</name>
+<size>281098</size>
+<commit
+   revision="5525">
+<author>aling3</author>
+<date>2016-02-15T17:37:47.761947Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/test/java/ChessGUI/ManualTestPlan2.pdf</name>
+<size>671634</size>
+<commit
+   revision="6185">
+<author>aling3</author>
+<date>2016-02-19T00:29:17.049121Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="7210">
+<author>aling3</author>
+<date>2016-02-26T06:17:41.842542Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/.idea</name>
+<commit
+   revision="7175">
+<author>aling3</author>
+<date>2016-02-26T04:46:15.572828Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/.name</name>
+<size>6</size>
+<commit
+   revision="7167">
+<author>aling3</author>
+<date>2016-02-26T03:07:28.884147Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/Assignment2.0.iml</name>
+<size>8400</size>
+<commit
+   revision="7175">
+<author>aling3</author>
+<date>2016-02-26T04:46:15.572828Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="7167">
+<author>aling3</author>
+<date>2016-02-26T03:07:28.884147Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/misc.xml</name>
+<size>1152</size>
+<commit
+   revision="7167">
+<author>aling3</author>
+<date>2016-02-26T03:07:28.884147Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/modules.xml</name>
+<size>278</size>
+<commit
+   revision="7167">
+<author>aling3</author>
+<date>2016-02-26T03:07:28.884147Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.idea/vcs.xml</name>
+<size>180</size>
+<commit
+   revision="7167">
+<author>aling3</author>
+<date>2016-02-26T03:07:28.884147Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/bin</name>
+<commit
+   revision="7167">
+<author>aling3</author>
+<date>2016-02-26T03:07:28.884147Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/data</name>
+<commit
+   revision="7167">
+<author>aling3</author>
+<date>2016-02-26T03:07:28.884147Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/data/graph</name>
+<commit
+   revision="7167">
+<author>aling3</author>
+<date>2016-02-26T03:07:28.884147Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/data/graph/map_data.json</name>
+<size>16828</size>
+<commit
+   revision="7167">
+<author>aling3</author>
+<date>2016-02-26T03:07:28.884147Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/lib</name>
+<commit
+   revision="7210">
+<author>aling3</author>
+<date>2016-02-26T06:17:41.842542Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/lib/graph</name>
+<commit
+   revision="7210">
+<author>aling3</author>
+<date>2016-02-26T06:17:41.842542Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/lib/graph/cs_air.rb</name>
+<size>5657</size>
+<commit
+   revision="7201">
+<author>aling3</author>
+<date>2016-02-26T05:59:22.300087Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/lib/graph/graph.rb</name>
+<size>7752</size>
+<commit
+   revision="7210">
+<author>aling3</author>
+<date>2016-02-26T06:17:41.842542Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/lib/graph/node.rb</name>
+<size>845</size>
+<commit
+   revision="7167">
+<author>aling3</author>
+<date>2016-02-26T03:07:28.884147Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/test</name>
+<commit
+   revision="7199">
+<author>aling3</author>
+<date>2016-02-26T05:56:00.842196Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0/test/graph</name>
+<commit
+   revision="7199">
+<author>aling3</author>
+<date>2016-02-26T05:56:00.842196Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/test/graph/graph_test.rb</name>
+<size>5522</size>
+<commit
+   revision="7199">
+<author>aling3</author>
+<date>2016-02-26T05:56:00.842196Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/test/graph/node_test.rb</name>
+<size>1179</size>
+<commit
+   revision="7199">
+<author>aling3</author>
+<date>2016-02-26T05:56:00.842196Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="7939">
+<author>aling3</author>
+<date>2016-03-03T19:36:37.557647Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/.idea</name>
+<commit
+   revision="7939">
+<author>aling3</author>
+<date>2016-03-03T19:36:37.557647Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/.name</name>
+<size>6</size>
+<commit
+   revision="7559">
+<author>aling3</author>
+<date>2016-02-29T20:01:59.994538Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/Assignment2.0.iml</name>
+<size>8631</size>
+<commit
+   revision="7939">
+<author>aling3</author>
+<date>2016-03-03T19:36:37.557647Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="7559">
+<author>aling3</author>
+<date>2016-02-29T20:01:59.994538Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/misc.xml</name>
+<size>1152</size>
+<commit
+   revision="7559">
+<author>aling3</author>
+<date>2016-02-29T20:01:59.994538Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/modules.xml</name>
+<size>278</size>
+<commit
+   revision="7559">
+<author>aling3</author>
+<date>2016-02-29T20:01:59.994538Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.idea/vcs.xml</name>
+<size>180</size>
+<commit
+   revision="7559">
+<author>aling3</author>
+<date>2016-02-29T20:01:59.994538Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/bin</name>
+<commit
+   revision="7559">
+<author>aling3</author>
+<date>2016-02-29T20:01:59.994538Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/data</name>
+<commit
+   revision="7725">
+<author>aling3</author>
+<date>2016-03-02T06:30:37.403023Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/data/graph</name>
+<commit
+   revision="7725">
+<author>aling3</author>
+<date>2016-03-02T06:30:37.403023Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/data/graph/cmi_hub.json</name>
+<size>1276</size>
+<commit
+   revision="7688">
+<author>aling3</author>
+<date>2016-03-02T02:45:21.519967Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/data/graph/map_data.json</name>
+<size>16828</size>
+<commit
+   revision="7559">
+<author>aling3</author>
+<date>2016-02-29T20:01:59.994538Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/data/graph/test_data.json</name>
+<size>1601</size>
+<commit
+   revision="7716">
+<author>aling3</author>
+<date>2016-03-02T05:48:52.664673Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/lib</name>
+<commit
+   revision="7939">
+<author>aling3</author>
+<date>2016-03-03T19:36:37.557647Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/lib/graph</name>
+<commit
+   revision="7939">
+<author>aling3</author>
+<date>2016-03-03T19:36:37.557647Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/lib/graph/cs_air.rb</name>
+<size>10559</size>
+<commit
+   revision="7934">
+<author>aling3</author>
+<date>2016-03-03T19:21:22.259729Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/lib/graph/graph.rb</name>
+<size>12836</size>
+<commit
+   revision="7939">
+<author>aling3</author>
+<date>2016-03-03T19:36:37.557647Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/lib/graph/node.rb</name>
+<size>3346</size>
+<commit
+   revision="7748">
+<author>aling3</author>
+<date>2016-03-02T11:24:13.506901Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/test</name>
+<commit
+   revision="7939">
+<author>aling3</author>
+<date>2016-03-03T19:36:37.557647Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1/test/graph</name>
+<commit
+   revision="7939">
+<author>aling3</author>
+<date>2016-03-03T19:36:37.557647Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/test/graph/graph2_test.rb</name>
+<size>9446</size>
+<commit
+   revision="7939">
+<author>aling3</author>
+<date>2016-03-03T19:36:37.557647Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/test/graph/graph_test.rb</name>
+<size>4592</size>
+<commit
+   revision="7787">
+<author>aling3</author>
+<date>2016-03-03T02:58:55.395428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/test/graph/node_test.rb</name>
+<size>1179</size>
+<commit
+   revision="7559">
+<author>aling3</author>
+<date>2016-02-29T20:01:59.994538Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0</name>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.gitignore</name>
+<size>474</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/.idea</name>
+<commit
+   revision="9081">
+<author>aling3</author>
+<date>2016-03-11T09:57:05.328433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/.name</name>
+<size>13</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/Assignment3.0.iml</name>
+<size>21755</size>
+<commit
+   revision="9081">
+<author>aling3</author>
+<date>2016-03-11T09:57:05.328433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/misc.xml</name>
+<size>1152</size>
+<commit
+   revision="8493">
+<author>aling3</author>
+<date>2016-03-09T00:33:48.095647Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/modules.xml</name>
+<size>278</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/.idea/runConfigurations</name>
+<commit
+   revision="8435">
+<author>aling3</author>
+<date>2016-03-08T04:14:28.524054Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/runConfigurations/Development__Assignment3_0.xml</name>
+<size>1596</size>
+<commit
+   revision="8435">
+<author>aling3</author>
+<date>2016-03-08T04:14:28.524054Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/runConfigurations/Production__Assignment3_0.xml</name>
+<size>1594</size>
+<commit
+   revision="8435">
+<author>aling3</author>
+<date>2016-03-08T04:14:28.524054Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/runConfigurations/spec__Assignment3_0.xml</name>
+<size>1461</size>
+<commit
+   revision="8435">
+<author>aling3</author>
+<date>2016-03-08T04:14:28.524054Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/runConfigurations/test__Assignment3_0.xml</name>
+<size>1521</size>
+<commit
+   revision="8435">
+<author>aling3</author>
+<date>2016-03-08T04:14:28.524054Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/.idea/vcs.xml</name>
+<size>180</size>
+<commit
+   revision="8435">
+<author>aling3</author>
+<date>2016-03-08T04:14:28.524054Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Gemfile</name>
+<size>1553</size>
+<commit
+   revision="8761">
+<author>aling3</author>
+<date>2016-03-10T06:56:44.558779Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Gemfile.lock</name>
+<size>4142</size>
+<commit
+   revision="8761">
+<author>aling3</author>
+<date>2016-03-10T06:56:44.558779Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/README.rdoc</name>
+<size>478</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/Rakefile</name>
+<size>249</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/app</name>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/app/assets</name>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/app/assets/data</name>
+<commit
+   revision="8554">
+<author>aling3</author>
+<date>2016-03-09T08:06:50.517542Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/assets/data/svn_list.xml</name>
+<size>62899</size>
+<commit
+   revision="8554">
+<author>aling3</author>
+<date>2016-03-09T08:06:50.517542Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/assets/data/svn_log.xml</name>
+<size>134462</size>
+<commit
+   revision="8554">
+<author>aling3</author>
+<date>2016-03-09T08:06:50.517542Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/app/assets/images</name>
+<commit
+   revision="9089">
+<author>aling3</author>
+<date>2016-03-11T11:03:29.760821Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/assets/images/.keep</name>
+<size>0</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/assets/images/alvin.png</name>
+<size>16690</size>
+<commit
+   revision="9089">
+<author>aling3</author>
+<date>2016-03-11T11:03:29.760821Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/assets/images/bg-green.jpg</name>
+<size>1360817</size>
+<commit
+   revision="9089">
+<author>aling3</author>
+<date>2016-03-11T11:03:29.760821Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/assets/images/bg-sky.png</name>
+<size>57089</size>
+<commit
+   revision="9089">
+<author>aling3</author>
+<date>2016-03-11T11:03:29.760821Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/app/assets/javascripts</name>
+<commit
+   revision="9026">
+<author>aling3</author>
+<date>2016-03-11T03:58:01.045574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/assets/javascripts/application.js</name>
+<size>683</size>
+<commit
+   revision="8735">
+<author>aling3</author>
+<date>2016-03-10T05:49:24.779651Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/assets/javascripts/bootstrap-tree.js</name>
+<size>953</size>
+<commit
+   revision="8973">
+<author>aling3</author>
+<date>2016-03-10T23:07:21.066580Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/assets/javascripts/file-info.js</name>
+<size>971</size>
+<commit
+   revision="9026">
+<author>aling3</author>
+<date>2016-03-11T03:58:01.045574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/assets/javascripts/pages.coffee</name>
+<size>211</size>
+<commit
+   revision="8494">
+<author>aling3</author>
+<date>2016-03-09T00:37:33.663359Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/app/assets/stylesheets</name>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/assets/stylesheets/application.scss</name>
+<size>861</size>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/assets/stylesheets/bootstrap-combined.min.css</name>
+<size>149945</size>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/assets/stylesheets/bootstrap-tree.css</name>
+<size>1663</size>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/assets/stylesheets/pages.scss</name>
+<size>176</size>
+<commit
+   revision="8494">
+<author>aling3</author>
+<date>2016-03-09T00:37:33.663359Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/app/controllers</name>
+<commit
+   revision="8993">
+<author>aling3</author>
+<date>2016-03-11T01:14:42.121215Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/controllers/application_controller.rb</name>
+<size>204</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/app/controllers/concerns</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/controllers/concerns/.keep</name>
+<size>0</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/controllers/pages_controller.rb</name>
+<size>266</size>
+<commit
+   revision="8993">
+<author>aling3</author>
+<date>2016-03-11T01:14:42.121215Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/app/helpers</name>
+<commit
+   revision="9089">
+<author>aling3</author>
+<date>2016-03-11T11:03:29.760821Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/helpers/application_helper.rb</name>
+<size>29</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/helpers/pages_helper.rb</name>
+<size>23</size>
+<commit
+   revision="9089">
+<author>aling3</author>
+<date>2016-03-11T11:03:29.760821Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/app/mailers</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/mailers/.keep</name>
+<size>0</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/app/models</name>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/models/.keep</name>
+<size>0</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/app/models/concerns</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/models/concerns/.keep</name>
+<size>0</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/models/dir_item.rb</name>
+<size>725</size>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/models/file_item.rb</name>
+<size>1216</size>
+<commit
+   revision="9081">
+<author>aling3</author>
+<date>2016-03-11T09:57:05.328433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/models/item.rb</name>
+<size>818</size>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/models/projects.rb</name>
+<size>999</size>
+<commit
+   revision="9081">
+<author>aling3</author>
+<date>2016-03-11T09:57:05.328433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/models/svn_list.xml</name>
+<size>62899</size>
+<commit
+   revision="8554">
+<author>aling3</author>
+<date>2016-03-09T08:06:50.517542Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/models/svn_log.xml</name>
+<size>134462</size>
+<commit
+   revision="8554">
+<author>aling3</author>
+<date>2016-03-09T08:06:50.517542Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/app/views</name>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/app/views/layouts</name>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/views/layouts/application.html.erb</name>
+<size>829</size>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/app/views/pages</name>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/views/pages/index.html.erb</name>
+<size>497</size>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/app/views/pages/partials</name>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/views/pages/partials/_dir_tree.html.erb</name>
+<size>1000</size>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/views/pages/partials/_file_info.html.erb</name>
+<size>1069</size>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/app/views/pages/show.html.erb</name>
+<size>984</size>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/bin</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/bin/bundle</name>
+<size>133</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/bin/rails</name>
+<size>149</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/bin/rake</name>
+<size>94</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/bin/setup</name>
+<size>809</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/config</name>
+<commit
+   revision="9081">
+<author>aling3</author>
+<date>2016-03-11T09:57:05.328433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/config/application.rb</name>
+<size>2256</size>
+<commit
+   revision="9081">
+<author>aling3</author>
+<date>2016-03-11T09:57:05.328433Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/config/boot.rb</name>
+<size>132</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/config/database.yml</name>
+<size>552</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/config/environment.rb</name>
+<size>150</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/config/environments</name>
+<commit
+   revision="8761">
+<author>aling3</author>
+<date>2016-03-10T06:56:44.558779Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/config/environments/development.rb</name>
+<size>1600</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/config/environments/production.rb</name>
+<size>3303</size>
+<commit
+   revision="8761">
+<author>aling3</author>
+<date>2016-03-10T06:56:44.558779Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/config/environments/test.rb</name>
+<size>1755</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/config/initializers</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/config/initializers/assets.rb</name>
+<size>486</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/config/initializers/backtrace_silencers.rb</name>
+<size>404</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/config/initializers/cookies_serializer.rb</name>
+<size>129</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/config/initializers/filter_parameter_logging.rb</name>
+<size>194</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/config/initializers/inflections.rb</name>
+<size>647</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/config/initializers/mime_types.rb</name>
+<size>156</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/config/initializers/session_store.rb</name>
+<size>145</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/config/initializers/wrap_parameters.rb</name>
+<size>517</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/config/locales</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/config/locales/en.yml</name>
+<size>634</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/config/routes.rb</name>
+<size>1952</size>
+<commit
+   revision="8943">
+<author>aling3</author>
+<date>2016-03-10T21:58:14.082315Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/config/secrets.yml</name>
+<size>964</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/config.ru</name>
+<size>153</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/db</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/db/seeds.rb</name>
+<size>343</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/lib</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/lib/assets</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/lib/assets/.keep</name>
+<size>0</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/lib/tasks</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/lib/tasks/.keep</name>
+<size>0</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/log</name>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/log/.keep</name>
+<size>0</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/log/development.log</name>
+<size>2028338</size>
+<commit
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/public</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/public/404.html</name>
+<size>1564</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/public/422.html</name>
+<size>1547</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/public/500.html</name>
+<size>1477</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/public/favicon.ico</name>
+<size>0</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/public/robots.txt</name>
+<size>202</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/test</name>
+<commit
+   revision="9060">
+<author>aling3</author>
+<date>2016-03-11T07:40:59.621803Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/test/controllers</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/test/controllers/.keep</name>
+<size>0</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/test/controllers/pages_controller_test.rb</name>
+<size>162</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/test/fixtures</name>
+<commit
+   revision="9060">
+<author>aling3</author>
+<date>2016-03-11T07:40:59.621803Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/test/fixtures/.keep</name>
+<size>0</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/test/fixtures/test_list.xml</name>
+<size>1258</size>
+<commit
+   revision="9060">
+<author>aling3</author>
+<date>2016-03-11T07:40:59.621803Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/test/fixtures/test_log.xml</name>
+<size>1354</size>
+<commit
+   revision="9053">
+<author>aling3</author>
+<date>2016-03-11T06:47:50.721165Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/test/helpers</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/test/helpers/.keep</name>
+<size>0</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/test/integration</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/test/integration/.keep</name>
+<size>0</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/test/mailers</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/test/mailers/.keep</name>
+<size>0</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/test/models</name>
+<commit
+   revision="9060">
+<author>aling3</author>
+<date>2016-03-11T07:40:59.621803Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/test/models/.keep</name>
+<size>0</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/test/models/dir_item_test.rb</name>
+<size>1841</size>
+<commit
+   revision="9060">
+<author>aling3</author>
+<date>2016-03-11T07:40:59.621803Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/test/models/file_item_test.rb</name>
+<size>2522</size>
+<commit
+   revision="9053">
+<author>aling3</author>
+<date>2016-03-11T06:47:50.721165Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/test/test_helper.rb</name>
+<size>312</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/tmp</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/tmp/cache</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/tmp/cache/assets</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/vendor</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/vendor/assets</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/vendor/assets/javascripts</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/vendor/assets/javascripts/.keep</name>
+<size>0</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/vendor/assets/stylesheets</name>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/vendor/assets/stylesheets/.keep</name>
+<size>0</size>
+<commit
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+</commit>
+</entry>
+</list>
+</lists>

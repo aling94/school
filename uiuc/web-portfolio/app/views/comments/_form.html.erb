@@ -1,0 +1,19 @@
+<!-- Partial for new reply form -->
+
+<%= form_for @comment do |f| %>
+    <% if @comment.errors.any? %>
+        <div id="errors">
+          <h4 style="color:red"><%= pluralize(@comment.errors.count, "error") %> prevented this comment from saving:</h4>
+          <ul>
+            <% @comment.errors.full_messages.each do |msg| %>
+                <li><%= msg %></li>
+            <% end %>
+          </ul>
+        </div>
+    <% end %>
+    <p><%= f.text_field :name, :placeholder => 'Name' %></p>
+    <p><%= f.text_area :body, :placeholder => 'Body' %></p>
+    <%= hidden_field_tag :proj, @tree.name %>
+    <%= hidden_field_tag :postid, 1 %>
+    <%= f.submit %>
+<% end %>

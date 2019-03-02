@@ -1,0 +1,20 @@
+<!-- Partial for a post -->
+
+<li class="comment parent">
+  <!-- Author meta and buttons -->
+  <p><b class="author"><%= post.name %></b> <%= time_ago_in_words(post.created_at) %> ago
+    <button value="<%= post.id %>" class="link reply">Reply</button>
+    <% if post.comments && !post.comments.empty? %>
+        | <button value="<%= post.id %>" class="link show-reply">Show Replies</button>
+    <% end %>
+  </p>
+  <!-- Comment body -->
+  <p><%= sanitize post.body %></p>
+  <div class="reply-form" id="replyto<%= post.id %>"></div>
+  <!-- Replies -->
+  <div id="replies<%= post.id %>" class="replies">
+    <ul class="children">
+      <%= render post.comments %>
+    </ul>
+  </div>
+</li>

@@ -1,0 +1,174 @@
+
+==================== FINAL INTERFACE ====================
+2016-05-09 19:32:57.223061 UTC
+
+interface main@main:Tests 7102
+  interface hash: 11cf1dae3ebe56d8cd65110abfdf2414
+  ABI hash: cf52d44d9e45388f1925219d106ef4a1
+  export-list hash: d81a74e19c519ed11afb2dc8e5e6fbce
+  orphan hash: 693e9af84d3dfcc71e640e005bdc5e2e
+  flag hash: b4ec931748579a12fd6cc845af42ec36
+  sig of: Nothing
+  used TH splices: False
+  where
+exports:
+  Tests.evenoddTests'
+  Tests.factTests'
+  Tests.isSimpleTests
+  Tests.studentCpsDeclTests
+module dependencies:
+package dependencies: array-0.5.1.0@array_E0sTtauuKsGDLZoT7lTbgZ
+                      base-4.8.1.0* binary-0.7.5.0@binar_IvYoLp9H6Xy3zEH13MmZwd
+                      bytestring-0.10.6.0@bytes_6elQVSg5cWdFrvRnfxTUrH
+                      containers-0.5.6.2@conta_LKCPrTJwOTOLk4OU37YmeN
+                      deepseq-1.4.1.1@deeps_LbCWUlehDDeLxurARKDH5o ghc-prim-0.4.0.0
+                      integer-gmp-1.0.0.0 mp3-cps-0.1.0.0@mp3cp_8Kpact7Y9qeG6n46X6WEAH
+                      mtl-2.2.1@mtl_KMpng31YRYc5JfMWFZ3FCU
+                      parsec-3.1.9@parse_8fSmqig53hOL2SEu1k9Tv0
+                      text-1.2.1.3@text_1l1AN4I48k37RaQ6fm6CEh
+                      transformers-0.4.2.0@trans_3eG64VdP2vzGjP6wJiCp5X
+orphans: base-4.8.1.0:GHC.Base base-4.8.1.0:GHC.Float
+         binary-0.7.5.0@binar_IvYoLp9H6Xy3zEH13MmZwd:Data.Binary.Generic
+         bytestring-0.10.6.0@bytes_6elQVSg5cWdFrvRnfxTUrH:Data.ByteString.Builder
+         text-1.2.1.3@text_1l1AN4I48k37RaQ6fm6CEh:Data.Text
+         text-1.2.1.3@text_1l1AN4I48k37RaQ6fm6CEh:Data.Text.Lazy
+         text-1.2.1.3@text_1l1AN4I48k37RaQ6fm6CEh:Data.Text.Show
+         transformers-0.4.2.0@trans_3eG64VdP2vzGjP6wJiCp5X:Control.Monad.Trans.Error
+family instance modules: base-4.8.1.0:Control.Applicative
+                         base-4.8.1.0:Data.Either base-4.8.1.0:Data.Functor.Identity
+                         base-4.8.1.0:Data.Monoid base-4.8.1.0:Data.Type.Equality
+                         base-4.8.1.0:Data.Void base-4.8.1.0:GHC.Exts
+                         base-4.8.1.0:GHC.Generics
+                         containers-0.5.6.2@conta_LKCPrTJwOTOLk4OU37YmeN:Data.IntMap.Base
+                         containers-0.5.6.2@conta_LKCPrTJwOTOLk4OU37YmeN:Data.IntSet.Base
+                         containers-0.5.6.2@conta_LKCPrTJwOTOLk4OU37YmeN:Data.Map.Base
+                         containers-0.5.6.2@conta_LKCPrTJwOTOLk4OU37YmeN:Data.Sequence
+                         containers-0.5.6.2@conta_LKCPrTJwOTOLk4OU37YmeN:Data.Set.Base
+                         text-1.2.1.3@text_1l1AN4I48k37RaQ6fm6CEh:Data.Text
+                         text-1.2.1.3@text_1l1AN4I48k37RaQ6fm6CEh:Data.Text.Lazy
+import  -/  base-4.8.1.0:GHC.Base 1db77db5dae73d8c424c85b09fbadb89
+import  -/  base-4.8.1.0:Prelude 518f762991bc287d78f21a73c974da1f
+import  -/  integer-gmp-1.0.0.0:GHC.Integer.Type bf9b4d13b1dbe96a83786d2e47d2e8ca
+import  -/  mp3-cps-0.1.0.0@mp3cp_8Kpact7Y9qeG6n46X6WEAH:Lib bf403bc09eac9ff94026c976f893d430
+a8dd43b228fe062fb54b3c2cc7ecaf1f
+  evenoddTests' :: [[GHC.Types.Int]]
+  {- HasNoCafRefs, Strictness: m2,
+     Unfolding: (GHC.Types.:
+                   @ [GHC.Types.Int]
+                   Tests.evenoddTests'6
+                   Tests.evenoddTests'1) -}
+9ce6256d11f0dae78b962317fd4386a2
+  evenoddTests'1 :: [[GHC.Types.Int]]
+  {- HasNoCafRefs, Strictness: m2,
+     Unfolding: (GHC.Types.:
+                   @ [GHC.Types.Int]
+                   Tests.evenoddTests'2
+                   (GHC.Types.[] @ [GHC.Types.Int])) -}
+45308c005e54041a470a1e079f6a3976
+  evenoddTests'2 :: [GHC.Types.Int]
+  {- HasNoCafRefs, Strictness: m2,
+     Unfolding: (GHC.Types.:
+                   @ GHC.Types.Int
+                   Tests.evenoddTests'5
+                   Tests.evenoddTests'3) -}
+6ebe200316e4116127caf9aeb4d24808
+  evenoddTests'3 :: [GHC.Types.Int]
+  {- HasNoCafRefs, Strictness: m2,
+     Unfolding: (GHC.Types.:
+                   @ GHC.Types.Int
+                   Tests.evenoddTests'4
+                   (GHC.Types.[] @ GHC.Types.Int)) -}
+408b0e9fc3c199fb64b98cca3bcbcac2
+  evenoddTests'4 :: GHC.Types.Int
+  {- HasNoCafRefs, Strictness: m, Unfolding: (GHC.Types.I# 2) -}
+29d8d8ba1558f1c10d49a26eb93b095a
+  evenoddTests'5 :: GHC.Types.Int
+  {- HasNoCafRefs, Strictness: m, Unfolding: (GHC.Types.I# 1) -}
+7d53d92e5aa6ac80d1583cc3cc64cbdb
+  evenoddTests'6 :: [GHC.Types.Int]
+  {- HasNoCafRefs, Strictness: m2,
+     Unfolding: (GHC.Types.:
+                   @ GHC.Types.Int
+                   Tests.evenoddTests'5
+                   (GHC.Types.[] @ GHC.Types.Int)) -}
+bec9393dba0b68d62cae5e500d092118
+  factTests' :: [GHC.Integer.Type.Integer]
+  {- HasNoCafRefs, Strictness: m2,
+     Unfolding: (GHC.Types.:
+                   @ GHC.Integer.Type.Integer
+                   Tests.factTests'1
+                   (GHC.Types.[] @ GHC.Integer.Type.Integer)) -}
+3c8cb262a03f17baab6584b3d98ebdff
+  factTests'1 :: GHC.Integer.Type.Integer
+  {- HasNoCafRefs, Unfolding: (__integer 10) -}
+70f9efaa63267d52aec9fbbcb996162a
+  isSimpleTests :: [t]
+  {- HasNoCafRefs,
+     Unfolding: InlineRule (0, True, True) GHC.Types.[] -}
+3fbaafa79ce72c6ebaa43d1020c6305b
+  studentCpsDeclTests :: [(GHC.Base.String, Lib.Stmt)]
+  {- Strictness: m2,
+     Unfolding: (GHC.Types.:
+                   @ (GHC.Base.String, Lib.Stmt)
+                   Tests.studentCpsDeclTests1
+                   (GHC.Types.[] @ (GHC.Base.String, Lib.Stmt))) -}
+33334bc0118682192b3f35ef730576dc
+  studentCpsDeclTests1 :: ([GHC.Types.Char], Lib.Stmt)
+  {- Strictness: m,
+     Unfolding: ((Tests.studentCpsDeclTests11,
+                  Tests.studentCpsDeclTests2)) -}
+c005200ac036a4907792cc8afff5b23b
+  studentCpsDeclTests10 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "fook"#) -}
+12328d6919ac1a4b4b26d63833896a10
+  studentCpsDeclTests11 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "foo v = v"#) -}
+ef5cc60e92fb27c043b565031912bf03
+  studentCpsDeclTests2 :: Lib.Stmt
+  {- Strictness: m,
+     Unfolding: (Lib.Decl
+                   Tests.studentCpsDeclTests10
+                   Tests.studentCpsDeclTests8
+                   Tests.studentCpsDeclTests3) -}
+0e36db246e8fd29f598826613d8de18a
+  studentCpsDeclTests3 :: Lib.Exp
+  {- Strictness: m3,
+     Unfolding: (Lib.AppExp
+                   Tests.studentCpsDeclTests6
+                   Tests.studentCpsDeclTests4) -}
+e9d7d73fe709e004bc7d41da50b1afe9
+  studentCpsDeclTests4 :: Lib.Exp
+  {- Strictness: m5,
+     Unfolding: (Lib.VarExp Tests.studentCpsDeclTests5) -}
+54dd3641a967c59162e2b824aae0ffa3
+  studentCpsDeclTests5 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "v"#) -}
+ad27b54e6d6bc053027c237bbcbcacad
+  studentCpsDeclTests6 :: Lib.Exp
+  {- Strictness: m5,
+     Unfolding: (Lib.VarExp Tests.studentCpsDeclTests7) -}
+8fe9832a6ce17ec4c77976d4df2407e2
+  studentCpsDeclTests7 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "k"#) -}
+6f1ce806800dacd95acbd7979b10e3cd
+  studentCpsDeclTests8 :: [GHC.Base.String]
+  {- Strictness: m2,
+     Unfolding: (GHC.Types.:
+                   @ GHC.Base.String
+                   Tests.studentCpsDeclTests5
+                   Tests.studentCpsDeclTests9) -}
+481470b92fb664f4bcf5c15352a1c797
+  studentCpsDeclTests9 :: [GHC.Base.String]
+  {- Strictness: m2,
+     Unfolding: (GHC.Types.:
+                   @ GHC.Base.String
+                   Tests.studentCpsDeclTests7
+                   (GHC.Types.[] @ GHC.Base.String)) -}
+vectorised variables:
+vectorised tycons:
+vectorised reused tycons:
+parallel variables:
+parallel tycons:
+trusted: safe
+require own pkg trusted: False
+

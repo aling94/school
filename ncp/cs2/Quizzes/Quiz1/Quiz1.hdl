@@ -1,0 +1,37 @@
+// This file is used for building a chip call quiz 1 
+// in Dr. Nguyen's class: Elements of Computing Systems
+// File name: GateQuiz/Quiz1.hdl
+// use two input, x,y,z and one out
+//Designed by Alvin Ling
+
+//Quiz1 gate: in x, y, y
+ 
+//Build the chip for the following function and its truth table as shown below
+ 
+//	x	y	z   	|   f(x,y,z)
+//	-------------------------------
+//	0	0	0	|	0
+//	0	0	1	|	1
+//	0	1	0	|	0
+//	0	1	1	|	0
+//	1	0	0	|	0
+//	1	0	1	|	1
+//	1	1	0	|	0
+//	1	1	1	|	1
+//
+//   _
+//(x+y)z ; And(Or(x,Not(y)),z)
+/**
+ * Quiz1 gate: in x, y, z
+ **/
+CHIP Quiz1{
+
+    IN  x, y, z;
+    OUT out;
+
+    PARTS:
+    Not(in=y, out=b);
+    Or(a=x, b= b, out=a);
+    And(a=a, b=z, out=out);
+
+}

@@ -1,0 +1,3 @@
+== UIUC Web Portfolio
+
+Project for designing a website that displays assignments listed in an svn repository

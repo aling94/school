@@ -1,0 +1,26 @@
+<!--
+-- Partial for rendering directory tree.
+-->
+
+<% def draw_dir(dir) %>
+    <% dir.children.each do |child| %>
+    <li>
+      <% ico = (child.info[:type] == 'dir')? 'icon-folder-open' : 'icon-file' %>
+      <% if child.info[:type] != 'dir' %>
+          <% fn = "showFile('#{child.full_path.gsub(/[\.\/]/,'')}')"%>
+          <span><i class='<%= ico %>' ></i> </span>
+          <button class="link" onclick="<%= fn %>" ><%= child.name %></button>
+      <% else %>
+          <span><i class='<%= ico %>' ></i> <%= child.name %></span>
+      <% end %>
+      <% if child.children? %><ul><% draw_dir(child) %></ul><% end %>
+    </li>
+    <% end %>
+<% end %>
+
+
+<div class="tree">
+  <% if root.children && root.children? %>
+      <ul><%= draw_dir(root); '' %></ul>
+  <% end %>
+</div>

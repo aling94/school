@@ -1,0 +1,29 @@
+<!--
+-- Layout template. All pages are essentially partials rendered within this page.
+-- Acts as a template so that header and other elements are present on every page.
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Alvin's CS242 Projects</title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+
+<div class="container-fluid titlebar proj-header">
+  <div class="row project-content">
+    <div class="col-sm-6">
+      <a href="/"><%= image_tag("alvin.png") %></a>
+      <div style="display: inline-block; margin: 15px;"> <a href="/"><h1>Alvin's CS242 Portfolio</h1></a> </div>
+    </div>
+    <div class="col-sm-6">
+    </div>
+  </div>
+</div>
+<%= yield %>
+
+<%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+</body>
+</html>

@@ -1,0 +1,9 @@
+I"~(function() {
+  var setReply;
+
+  setReply = function(postid) {
+    return $('#postid').val(postid);
+  };
+
+}).call(this);
+:ET

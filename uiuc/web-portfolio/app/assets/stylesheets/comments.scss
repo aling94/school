@@ -1,0 +1,78 @@
+// Place all the styles related to the comments controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+// Comment list styles. Taken from
+// https://gist.github.com/jeffgolenski/4391954
+
+ol.commentlist {
+
+  list-style:none;
+  margin:0 0 1em;
+  padding:0;
+  text-indent:0;
+
+  li {}
+  li.alt {}
+  li.bypostauthor {}
+  li.byuser {}
+  li.comment-author-admin {}
+
+
+  li.comment {
+    //border-bottom: 1px solid #ddd;
+    padding:1em;
+
+    div.commentmetadata {} // end .commentmetadata
+    div.comment-meta {
+
+      font-size: 11px;
+
+      a {
+        color: #ccc;
+      } // end a
+
+    } // end div.comment-meta
+
+    p {font-size: 12px;} // end p
+
+    ul {
+      font-size: 12px;
+      list-style: none;
+      margin: 0 0 0 20px;
+    } // end ul
+
+    div.reply {
+
+      font-size: 11px;
+
+      a {font-weight: bold;} // end a
+
+    } // end reply
+
+    ul.children {
+      list-style:none;
+      margin: 12px;
+      text-indent:0;
+
+      li.depth-2 { border-left: 5px solid #ccc; margin:0 0 10px 10px; }
+    }  // end ul.children
+
+  }  // end li.comment
+
+  li.even {background:#fff;}
+  li.odd {background:#f6f6f6;}
+  //li.parent {border-left:5px solid #ddd;}
+  li.parent {border-bottom: 1px solid #ddd;}
+
+} // end commentlist
+
+div.replies {
+  //display: none;
+  margin: 0;
+  padding: 0;
+}
+
+b.author {
+  font-size: 12pt;
+  margin-right: 10px;
+}

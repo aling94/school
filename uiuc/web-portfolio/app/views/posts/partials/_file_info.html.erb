@@ -1,0 +1,25 @@
+<!-- Partial for rendering the info tree related to a specific file. -->
+
+<div id="<%= file.full_path.gsub(/[\.\/]/,'') %>" class="file-node">
+  <h3><%= file.name %></h3>
+  <div class="tree rev-info">
+    <ul>
+      <li><span><i class="icon-file"></i> </span> <%= file.info[:size] %> Bytes</li>
+      <li><span><i class="icon-asterisk"></i> </span> <%= file.info[:type] %></li>
+      <li><span><i class="glyphicon glyphicon-link"></i> </span> <a href ="<%= file.svn_path %>" class="fancy-iframe fancybox.iframe">Click to view file</a></li>
+      <li><span><i class="icon-pencil"></i> </span> Revisions
+            <ul>
+              <% file.revs.each do |num, info| %>
+                  <li><span><i class="icon-edit"></i> <%= num %> </span>
+                    <ul>
+                      <li><span><i class="icon-user"></i> </span> <%= info[:author] %></li>
+                      <li><span><i class="icon-time"></i> </span> <%= info[:date] %></li>
+                      <li><span><i class="icon-comment"></i> </span> <%= info[:msg] %></li>
+                    </ul>
+                  </li>
+              <% end %>
+            </ul>
+      </li>
+    </ul>
+  </div>
+</div>

@@ -1,0 +1,67 @@
+Grading Script Report for aling
+Lab: Doubly Linked List Lab
+Timestamp: 2012-03-09 23:07:38.314217
+
+* Summary
+Test                                                       Result             Max Score
+Testing student code                                       Tests Passed       20  20   
+Testing student test cases with working version of program Tests Passed       5   5    
+size does not increment on insertion.                      Your tests worked. 5   5    
+size does not decrement on deletion.                       Your tests worked. 5   5    
+last pointer not set on initial insertion.                 Your tests worked. 5   5    
+delete last element does not set first=null.               Your tests worked. 5   5    
+reverse iterator is really a forward iterator.             Your tests worked. 5   5    
+reverse iterator only returns last element.                Your tests worked. 5   5    
+insert last clobbers last element.                         Your tests worked. 5   5    
+previous pointers never set.                               Your tests worked. 5   5    
+forward find iterator skips first match.                   Your tests worked. 5   5    
+forward find iterator returns everything.                  Your tests worked. 5   5    
+reverse find iterator skips first match.                   Your tests worked. 5   5    
+reverse find iterator returns everything.                  Your tests worked. 5   5    
+
+
+Total Score: 85/85
+
+* Details
+Testing student code details:
+
+
+Testing student test cases with working version of program details:
+
+
+size does not increment on insertion. details:
+
+
+size does not decrement on deletion. details:
+
+
+last pointer not set on initial insertion. details:
+
+
+delete last element does not set first=null. details:
+
+
+reverse iterator is really a forward iterator. details:
+
+
+reverse iterator only returns last element. details:
+
+
+insert last clobbers last element. details:
+
+
+previous pointers never set. details:
+
+
+forward find iterator skips first match. details:
+
+
+forward find iterator returns everything. details:
+
+
+reverse find iterator skips first match. details:
+
+
+reverse find iterator returns everything. details:
+
+

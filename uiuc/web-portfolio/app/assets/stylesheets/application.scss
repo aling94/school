@@ -1,0 +1,68 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "bootstrap-combined.min.css";
+@import "bootstrap-tree.css";
+@import "posts.scss";
+@import "comments.scss";
+@import "fancybox/fancybox.css";
+
+/**
+ * Custom CSS for site layout and project specific divs
+ */
+
+.tree-bg {
+  background-image: image_url("tree-bg.jpg");
+  //background-repeat: no-repeat;
+  //background-size: 100%;
+}
+
+.titlebar {
+  background-color: #2c3e50;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  a:hover { color: #18bc9c; }
+}
+
+.project-content {
+  //background-color: #4bb1cf;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.proj-info {
+  height: 100%;
+  background-color: #2e2e2e;
+  color: white;
+}
+
+.proj-list {
+  height: 100%;
+  background-color: #DADADA;
+}
+
+
+.proj-header {
+  margin-top: 0px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+  img {
+    width: 150px;
+    height: auto;
+  }
+}
+
+.file-node {
+  margin: 0;
+  padding: 0;
+  display: none;
+}
+
+a:link, a:hover, a:visited, a:active {
+  text-decoration: none;
+}

@@ -1,0 +1,1175 @@
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------
+FileItemTest: test_the_truth
+----------------------------
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+---------------------------
+DirItemTest: test_the_truth
+---------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------
+FileItemTest: test_the_truth
+----------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------
+FileItemTest: test_the_truth
+----------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------
+FileItemTest: test_the_truth
+----------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_adding_revisions
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_adding_revisions
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_adding_revisions
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_adding_revisions
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_adding_revisions
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+FileItemTest: test_revisions_contents
+-------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_revisions_counts
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_revisions_counts
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+FileItemTest: test_revisions_contents
+-------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_revisions_counts
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-------------------------------------
+FileItemTest: test_revisions_contents
+-------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f1_revisions_contents
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_revisions_counts
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_revisions_counts
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f1_revisions_contents
+----------------------------------------
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f1_revisions_contents
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_revisions_counts
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f1_revisions_contents
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_revisions_counts
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f1_revisions_contents
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f2_revisions_contents
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_revisions_counts
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_revisions_counts
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f2_revisions_contents
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f1_revisions_contents
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+---------------------------
+DirItemTest: test_the_truth
+---------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------
+DirItemTest: test_constructor
+-----------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------
+DirItemTest: test_constructor
+-----------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------
+DirItemTest: test_constructors
+------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------
+DirItemTest: test_directories_are_present
+-----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------
+DirItemTest: test_constructors
+------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------
+DirItemTest: test_directories_are_present
+-----------------------------------------
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------
+DirItemTest: test_constructors
+------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------
+DirItemTest: test_directories_are_present
+-----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------
+DirItemTest: test_correct_revision_num
+--------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------
+DirItemTest: test_constructors
+------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------
+DirItemTest: test_directories_are_present
+-----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------
+DirItemTest: test_constructors
+------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------
+DirItemTest: test_correct_revision_num
+--------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------
+DirItemTest: test_directories_are_present
+-----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------
+DirItemTest: test_correct_revision_num
+--------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------
+DirItemTest: test_constructors
+------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------
+DirItemTest: test_directories_are_present
+-----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+DirItemTest: test_children_added_to_correct_dir
+-----------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------------
+DirItemTest: test_correct_number_of_children
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+DirItemTest: test_children_added_to_correct_dir
+-----------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+------------------------------
+DirItemTest: test_constructors
+------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------
+DirItemTest: test_correct_revision_num
+--------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------
+DirItemTest: test_directories_are_present
+-----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------------
+DirItemTest: test_correct_number_of_children
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+DirItemTest: test_children_added_to_correct_dir
+-----------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------
+DirItemTest: test_directories_are_present
+-----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------------
+DirItemTest: test_correct_number_of_children
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------
+DirItemTest: test_constructors
+------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------
+DirItemTest: test_correct_revision_num
+--------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+DirItemTest: test_children_added_to_correct_dir
+-----------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------------
+DirItemTest: test_correct_number_of_children
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------
+DirItemTest: test_directories_are_present
+-----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------
+DirItemTest: test_constructors
+------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------
+DirItemTest: test_correct_revision_num
+--------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------
+DirItemTest: test_correct_revision_num
+--------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------
+DirItemTest: test_constructors
+------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------------
+DirItemTest: test_correct_number_of_children
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+DirItemTest: test_children_added_to_correct_dir
+-----------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------
+DirItemTest: test_directories_are_present
+-----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+DirItemTest: test_children_added_to_correct_dir
+-----------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------
+DirItemTest: test_directories_are_present
+-----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------
+DirItemTest: test_correct_revision_num
+--------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------
+DirItemTest: test_constructors
+------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------------
+DirItemTest: test_correct_number_of_children
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_revisions_counts
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f2_revisions_contents
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f1_revisions_contents
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------------------
+PagesControllerTest: test_should_get_index
+------------------------------------------
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 4958ms (Views: 4958.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------
+DirItemTest: test_directories_are_present
+-----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------------
+DirItemTest: test_correct_number_of_children
+--------------------------------------------
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------
+DirItemTest: test_correct_revision_num
+--------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------
+DirItemTest: test_constructors
+------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+DirItemTest: test_children_added_to_correct_dir
+-----------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f1_revisions_contents
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f2_revisions_contents
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_revisions_counts
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------------------
+PagesControllerTest: test_should_get_index
+------------------------------------------
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 174ms (Views: 173.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f2_revisions_contents
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f1_revisions_contents
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_revisions_counts
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------------
+DirItemTest: test_correct_number_of_children
+--------------------------------------------
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------
+DirItemTest: test_correct_revision_num
+--------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+DirItemTest: test_children_added_to_correct_dir
+-----------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------
+DirItemTest: test_constructors
+------------------------------
+  [1m[35m (1.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------
+DirItemTest: test_directories_are_present
+-----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+DirItemTest: test_children_added_to_correct_dir
+-----------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------------
+DirItemTest: test_correct_number_of_children
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------
+DirItemTest: test_constructors
+------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------
+DirItemTest: test_directories_are_present
+-----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------
+DirItemTest: test_correct_revision_num
+--------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------------------
+PagesControllerTest: test_should_get_index
+------------------------------------------
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 190ms (Views: 189.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_revisions_counts
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f2_revisions_contents
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f1_revisions_contents
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f1_revisions_contents
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f2_revisions_contents
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_revisions_counts
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------------------
+PagesControllerTest: test_should_get_index
+------------------------------------------
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 4497ms (Views: 4496.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+DirItemTest: test_children_added_to_correct_dir
+-----------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------------
+DirItemTest: test_correct_number_of_children
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------
+DirItemTest: test_constructors
+------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------
+DirItemTest: test_correct_revision_num
+--------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------
+DirItemTest: test_directories_are_present
+-----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+------------------------------------------
+PagesControllerTest: test_should_get_index
+------------------------------------------
+Processing by PagesController#index as HTML
+  Rendered pages/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 221ms (Views: 220.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f2_revisions_contents
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+----------------------------------------
+FileItemTest: test_f1_revisions_contents
+----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_revisions_counts
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------
+DirItemTest: test_children_added_to_correct_dir
+-----------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-----------------------------------------
+DirItemTest: test_directories_are_present
+-----------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------
+DirItemTest: test_correct_revision_num
+--------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+------------------------------
+DirItemTest: test_constructors
+------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------------
+DirItemTest: test_correct_number_of_children
+--------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mFixture Delete (0.0ms)[0m  [1mDELETE FROM "filters"[0m
+  [1m[35mFixture Insert (0.0ms)[0m  INSERT INTO "filters" ("flag", "sub", "created_at", "updated_at", "id") VALUES ('flag1', 'sub1', '2016-03-18 03:24:24', '2016-03-18 03:24:24', 980190962)
+  [1m[36mFixture Insert (0.0ms)[0m  [1mINSERT INTO "filters" ("flag", "sub", "created_at", "updated_at", "id") VALUES ('flag2', 'sub2', '2016-03-18 03:24:24', '2016-03-18 03:24:24', 298486374)[0m
+  [1m[35mFixture Delete (0.0ms)[0m  DELETE FROM "posts"
+  [1m[36mFixture Insert (0.0ms)[0m  [1mINSERT INTO "posts" ("proj", "name", "body", "created_at", "updated_at", "id") VALUES ('MyString', 'MyString', 'MyString', '2016-03-18 03:24:24', '2016-03-18 03:24:24', 980190962)[0m
+  [1m[35mFixture Insert (0.0ms)[0m  INSERT INTO "posts" ("proj", "name", "body", "created_at", "updated_at", "id") VALUES ('MyString', 'MyString', 'MyString', '2016-03-18 03:24:24', '2016-03-18 03:24:24', 298486374)
+  [1m[36m (458.1ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+----------------------------------------
+FileItemTest: test_f1_revisions_contents
+----------------------------------------
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+----------------------------------------
+FileItemTest: test_f2_revisions_contents
+----------------------------------------
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+-----------------------------------
+FileItemTest: test_revisions_counts
+-----------------------------------
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+-------------------------------------------
+FilterTest: test_filter_caps_dirty_sentence
+-------------------------------------------
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 10)[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+---------------------------------------
+FilterTest: test_filter_sneaky_sentence
+---------------------------------------
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 10)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+--------------------------------------------
+FilterTest: test_filter_mixed_dirty_sentence
+--------------------------------------------
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 10)[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------
+FilterTest: test_filter_clean_sentence
+--------------------------------------
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 8)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 8)[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------
+FilterTest: test_filter_dirty_sentence
+--------------------------------------
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 7)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+--------------------------------------------
+DirItemTest: test_correct_number_of_children
+--------------------------------------------
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+------------------------------
+DirItemTest: test_constructors
+------------------------------
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+--------------------------------------
+DirItemTest: test_correct_revision_num
+--------------------------------------
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+-----------------------------------------
+DirItemTest: test_directories_are_present
+-----------------------------------------
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+-----------------------------------------------
+DirItemTest: test_children_added_to_correct_dir
+-----------------------------------------------
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+------------------------------------
+PostTest: test_empty_post_won't_save
+------------------------------------
+  [1m[36m (1.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 4)
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 4)[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+-----------------------------------
+PostTest: test_Profanity_validation
+-----------------------------------
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 3)[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)[0m
+  [1m[35mSQL (0.0ms)[0m  INSERT INTO "posts" ("name", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "Alvin"], ["body", "sub1"], ["created_at", "2016-03-18 03:24:24.905838"], ["updated_at", "2016-03-18 03:24:24.905838"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mPost Load (1.0ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."name" = ?  ORDER BY "posts"."id" ASC LIMIT 1  [["name", "Alvin"]]
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+------------------------------------------
+PostTest: test_SQL_injection_insert_quotes
+------------------------------------------
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 2)[0m
+  [1m[35mSQL (0.0ms)[0m  INSERT INTO "posts" ("name", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "Alvin"], ["body", "''"], ["created_at", "2016-03-18 03:24:24.913841"], ["updated_at", "2016-03-18 03:24:24.913841"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mPost Load (0.0ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."name" = ?  ORDER BY "posts"."id" ASC LIMIT 1  [["name", "Alvin"]]
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+------------------------------------------
+PostTest: test_successful_save_normal_text
+------------------------------------------
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 7)[0m
+  [1m[35mSQL (0.0ms)[0m  INSERT INTO "posts" ("name", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "Alvin"], ["body", "test post should succeed"], ["created_at", "2016-03-18 03:24:24.916841"], ["updated_at", "2016-03-18 03:24:24.916841"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mPost Load (0.0ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."name" = ?  ORDER BY "posts"."id" ASC LIMIT 1  [["name", "Alvin"]]
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+--------------------------------------------
+PostTest: test_SQL_injection_insert_comments
+--------------------------------------------
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 3)[0m
+  [1m[35mSQL (0.0ms)[0m  INSERT INTO "posts" ("name", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "Alvin"], ["body", ")--"], ["created_at", "2016-03-18 03:24:24.919842"], ["updated_at", "2016-03-18 03:24:24.919842"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mPost Load (0.0ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."name" = ?  ORDER BY "posts"."id" ASC LIMIT 1  [["name", "Alvin"]]
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+-------------------------------
+PostTest: test_HTML/JS_escaping
+-------------------------------
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 3)[0m
+  [1m[35mSQL (0.0ms)[0m  INSERT INTO "posts" ("name", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "Alvin"], ["body", "<b></b>"], ["created_at", "2016-03-18 03:24:24.922843"], ["updated_at", "2016-03-18 03:24:24.922843"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mPost Load (0.0ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."name" = ?  ORDER BY "posts"."id" ASC LIMIT 1  [["name", "Alvin"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 24)[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "posts" ("name", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "Pablo"], ["body", "console.log('Get rekt.');"], ["created_at", "2016-03-18 03:24:24.924843"], ["updated_at", "2016-03-18 03:24:24.924843"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mPost Load (0.0ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."name" = ?  ORDER BY "posts"."id" ASC LIMIT 1  [["name", "Pablo"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 4)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 16)[0m
+  [1m[35mSQL (0.0ms)[0m  INSERT INTO "posts" ("name", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "Theo"], ["body", "<b>Test</b>"], ["created_at", "2016-03-18 03:24:24.926844"], ["updated_at", "2016-03-18 03:24:24.926844"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mPost Load (0.0ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."name" = ?  ORDER BY "posts"."id" ASC LIMIT 1  [["name", "Theo"]]
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+----------------------------------
+PostTest: test_non_letters_in_name
+----------------------------------
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 6)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 7)[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 8)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 7)[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 16)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 7)[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+-------------------------------------
+PostTest: test_SQL_injection_commands
+-------------------------------------
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 7)[0m
+  [1m[35mSQL (0.0ms)[0m  INSERT INTO "posts" ("name", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "Alvin"], ["body", "hello); DROP posts;"], ["created_at", "2016-03-18 03:24:24.934846"], ["updated_at", "2016-03-18 03:24:24.934846"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mPost Load (0.0ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."name" = ?  ORDER BY "posts"."id" ASC LIMIT 1  [["name", "Alvin"]]
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+----------------------------------
+PostTest: test_SQL_injection_query
+----------------------------------
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 7)[0m
+  [1m[35mSQL (0.0ms)[0m  INSERT INTO "posts" ("name", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "Alvin"], ["body", "test post should succeed"], ["created_at", "2016-03-18 03:24:24.937847"], ["updated_at", "2016-03-18 03:24:24.937847"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mPost Load (0.0ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."name" = ?  ORDER BY "posts"."id" ASC LIMIT 1  [["name", "Alvin"]]
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+  [1m[36mFixture Delete (1.0ms)[0m  [1mDELETE FROM "filters"[0m
+  [1m[35mFixture Insert (1.0ms)[0m  INSERT INTO "filters" ("flag", "sub", "created_at", "updated_at", "id") VALUES ('flag1', 'sub1', '2016-03-18 11:11:41', '2016-03-18 11:11:41', 980190962)
+  [1m[36mFixture Insert (0.0ms)[0m  [1mINSERT INTO "filters" ("flag", "sub", "created_at", "updated_at", "id") VALUES ('flag2', 'sub2', '2016-03-18 11:11:41', '2016-03-18 11:11:41', 298486374)[0m
+  [1m[35mFixture Delete (0.0ms)[0m  DELETE FROM "posts"
+  [1m[36mFixture Insert (0.0ms)[0m  [1mINSERT INTO "posts" ("proj", "name", "body", "created_at", "updated_at", "id") VALUES ('MyString', 'MyString', 'MyString', '2016-03-18 11:11:41', '2016-03-18 11:11:41', 980190962)[0m
+  [1m[35mFixture Insert (0.0ms)[0m  INSERT INTO "posts" ("proj", "name", "body", "created_at", "updated_at", "id") VALUES ('MyString', 'MyString', 'MyString', '2016-03-18 11:11:41', '2016-03-18 11:11:41', 298486374)
+  [1m[36m (72.0ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+------------------------------------
+PostTest: test_empty_post_won't_save
+------------------------------------
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (1.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 4)
+  [1m[36m (0.0ms)[0m  [1mROLLBACK TO SAVEPOINT active_record_1[0m
+  [1m[35m (0.0ms)[0m  SAVEPOINT active_record_1
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 4)[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+----------------------------------
+PostTest: test_non_letters_in_name
+----------------------------------
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (1.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 6)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 7)[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 8)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 7)[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 16)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 7)[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+-------------------------------------
+PostTest: test_SQL_injection_commands
+-------------------------------------
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (1.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 7)[0m
+  [1m[35mSQL (0.0ms)[0m  INSERT INTO "posts" ("name", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "Alvin"], ["body", "hello); DROP posts;"], ["created_at", "2016-03-18 11:11:42.102366"], ["updated_at", "2016-03-18 11:11:42.102366"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mPost Load (1.0ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."name" = ?  ORDER BY "posts"."id" ASC LIMIT 1  [["name", "Alvin"]]
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+--------------------------------------------
+PostTest: test_SQL_injection_insert_comments
+--------------------------------------------
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 3)[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "posts" ("name", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "Alvin"], ["body", ")--"], ["created_at", "2016-03-18 11:11:42.139368"], ["updated_at", "2016-03-18 11:11:42.139368"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mPost Load (0.0ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."name" = ?  ORDER BY "posts"."id" ASC LIMIT 1  [["name", "Alvin"]]
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+-------------------------------
+PostTest: test_HTML/JS_escaping
+-------------------------------
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (1.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 3)[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "posts" ("name", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "Alvin"], ["body", "<b></b>"], ["created_at", "2016-03-18 11:11:42.146368"], ["updated_at", "2016-03-18 11:11:42.146368"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mPost Load (0.0ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."name" = ?  ORDER BY "posts"."id" ASC LIMIT 1  [["name", "Alvin"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 24)[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "posts" ("name", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "Pablo"], ["body", "console.log('Get rekt.');"], ["created_at", "2016-03-18 11:11:42.150368"], ["updated_at", "2016-03-18 11:11:42.150368"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mPost Load (0.0ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."name" = ?  ORDER BY "posts"."id" ASC LIMIT 1  [["name", "Pablo"]]
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (1.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 4)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 16)[0m
+  [1m[35mSQL (0.0ms)[0m  INSERT INTO "posts" ("name", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "Theo"], ["body", "<b>Test</b>"], ["created_at", "2016-03-18 11:11:42.155369"], ["updated_at", "2016-03-18 11:11:42.155369"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mPost Load (0.0ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."name" = ?  ORDER BY "posts"."id" ASC LIMIT 1  [["name", "Theo"]]
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+------------------------------------------
+PostTest: test_SQL_injection_insert_quotes
+------------------------------------------
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 2)[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "posts" ("name", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "Alvin"], ["body", "''"], ["created_at", "2016-03-18 11:11:42.159369"], ["updated_at", "2016-03-18 11:11:42.159369"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mPost Load (1.0ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."name" = ?  ORDER BY "posts"."id" ASC LIMIT 1  [["name", "Alvin"]]
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+----------------------------------
+PostTest: test_SQL_injection_query
+----------------------------------
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 7)[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "posts" ("name", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "Alvin"], ["body", "test post should succeed"], ["created_at", "2016-03-18 11:11:42.165369"], ["updated_at", "2016-03-18 11:11:42.165369"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mPost Load (0.0ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."name" = ?  ORDER BY "posts"."id" ASC LIMIT 1  [["name", "Alvin"]]
+  [1m[36m (1.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+------------------------------------------
+PostTest: test_successful_save_normal_text
+------------------------------------------
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (1.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 7)[0m
+  [1m[35mSQL (0.0ms)[0m  INSERT INTO "posts" ("name", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "Alvin"], ["body", "test post should succeed"], ["created_at", "2016-03-18 11:11:42.172370"], ["updated_at", "2016-03-18 11:11:42.172370"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mPost Load (0.0ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."name" = ?  ORDER BY "posts"."id" ASC LIMIT 1  [["name", "Alvin"]]
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+-----------------------------------
+PostTest: test_Profanity_validation
+-----------------------------------
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 3)[0m
+  [1m[35m (0.0ms)[0m  ROLLBACK TO SAVEPOINT active_record_1
+  [1m[36m (0.0ms)[0m  [1mSAVEPOINT active_record_1[0m
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 5)[0m
+  [1m[35mSQL (0.0ms)[0m  INSERT INTO "posts" ("name", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)  [["name", "Alvin"], ["body", "sub1"], ["created_at", "2016-03-18 11:11:42.177370"], ["updated_at", "2016-03-18 11:11:42.177370"]]
+  [1m[36m (0.0ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+  [1m[35mPost Load (0.0ms)[0m  SELECT  "posts".* FROM "posts" WHERE "posts"."name" = ?  ORDER BY "posts"."id" ASC LIMIT 1  [["name", "Alvin"]]
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+---------------------------------------
+FilterTest: test_filter_sneaky_sentence
+---------------------------------------
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 10)[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------
+FilterTest: test_filter_dirty_sentence
+--------------------------------------
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 7)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+--------------------------------------------
+FilterTest: test_filter_mixed_dirty_sentence
+--------------------------------------------
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 10)[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+--------------------------------------
+FilterTest: test_filter_clean_sentence
+--------------------------------------
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 8)
+  [1m[36mFilter Load (0.0ms)[0m  [1mSELECT "filters".* FROM "filters" WHERE (length(flag) <= 8)[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+-------------------------------------------
+FilterTest: test_filter_caps_dirty_sentence
+-------------------------------------------
+  [1m[35mFilter Load (0.0ms)[0m  SELECT "filters".* FROM "filters" WHERE (length(flag) <= 10)
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (1.0ms)[0m  begin transaction
+------------------------------
+DirItemTest: test_constructors
+------------------------------
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+-----------------------------------------
+DirItemTest: test_directories_are_present
+-----------------------------------------
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+--------------------------------------
+DirItemTest: test_correct_revision_num
+--------------------------------------
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+--------------------------------------------
+DirItemTest: test_correct_number_of_children
+--------------------------------------------
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+-----------------------------------------------
+DirItemTest: test_children_added_to_correct_dir
+-----------------------------------------------
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+----------------------------------------
+FileItemTest: test_f1_revisions_contents
+----------------------------------------
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+----------------------------------------
+FileItemTest: test_f2_revisions_contents
+----------------------------------------
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+-----------------------------------
+FileItemTest: test_file_constructor
+-----------------------------------
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+-----------------------------------
+FileItemTest: test_revisions_counts
+-----------------------------------
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m

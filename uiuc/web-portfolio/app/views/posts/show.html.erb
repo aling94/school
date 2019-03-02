@@ -1,0 +1,49 @@
+<!-- Show view. Renders a page for each project.
+--   A root pertaining to the project root is passed down from the controller and is used to render all the info. -->
+
+<!-- Header bar to show project info -->
+<div class="container-fluid proj-header proj-info">
+  <h1><%=@tree.name%></h1>
+  <ul>
+    <li><b>Current revision :</b> <%= @tree.info[:rev] %></li>
+    <li><b>Date of revision :</b> <%= @tree.info[:date]%></li>
+    <% if @tree.info[:msg] %>
+       <li><b>Project Summary : </b><%= @tree.info[:msg] %></li>
+    <% end %>
+  </ul>
+</div>
+
+<!-- Project content -->
+<div class="container-fluid">
+  <div class="row project-content">
+    <!-- Project tree -->
+    <div class="col-sm-3 tree-wrapper">
+      <h2>Project Tree</h2>
+      <%= render :partial => 'posts/partials/dir_tree', :locals => {:root => @tree} %>
+    </div>
+    <!-- File info tree -->
+    <div class="col-sm-4 tree-wrapper" id="file-info">
+      <% @files.values.each do |file| %>
+          <%= render :partial => 'posts/partials/file_info', :locals => {:file => file} %>
+      <% end %>
+    </div>
+    <!-- Comment box -->
+    <div class="col-sm-5">
+      <% total_coms = @posts.count%>
+      <% total_coms += @posts.map(&:comments).map(&:count).inject(:+) unless @posts.empty? %>
+      <h3><%= pluralize(total_coms, 'Comment') %></h3>
+      <%= render 'form' %>
+      <% if !@posts.empty? %>
+          <div class="comment-box">
+            <ol class="commentlist">
+              <%= render @posts[0..20] %>
+            </ol>
+          </div>
+      <% end %>
+    </div>
+  </div>
+  <!-- Dummy form box -->
+  <div class="base-reply">
+    <%= render 'comments/form' %>
+  </div>
+</div>

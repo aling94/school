@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Phil/Dropbox/CS II - Nguyen/tecs-software-suite-2.5/project 06/bookClasses"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

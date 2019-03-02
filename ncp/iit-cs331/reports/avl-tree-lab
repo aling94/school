@@ -1,0 +1,116 @@
+Grading Script Report for aling
+Lab: AVL Tree Lab
+Timestamp: 2012-05-07 19:00:25.26722
+
+* Summary
+Test                             Result             Max Score
+Testing Student's Code           Errors detected    50  21   
+Testing Student's Tests          Tests Passed       5   5    
+Size not always incremented      Your tests worked. 5   5    
+Size not decremented             Your tests worked. 5   5    
+Delete truncates tree            Your tests worked. 5   5    
+Find only goes right             Your tests worked. 5   5    
+Rotate Left Broken               Your tests worked. 5   5    
+Rotate Right Broken              Your tests worked. 5   5    
+No Double Rotations              Your tests worked. 5   5    
+Left and Right Rotation Switched Your tests worked. 5   5    
+Two Child Delete Doesn't Rotate  Your tests worked. 5   5    
+
+
+Total Score: 71/100
+
+* Details
+Testing Student's Code details:
+java -cp .:/usr/share/junit/lib/junit.jar:classes junit.textui.TestRunner TestAVL
+........F.F.F.F.F.F.F.F.F
+Time: 0.012
+There were 9 failures:
+1) testLeftRotation(TestAVL)junit.framework.AssertionFailedError: Left Rotation expected:<2> but was:<3>
+	at TestAVL.iterate(TestAVL.java:23)
+	at TestAVL.testLeftRotation(TestAVL.java:119)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+2) testDLeftRotation(TestAVL)junit.framework.AssertionFailedError: Double Left Rotation expected:<2> but was:<3>
+	at TestAVL.iterate(TestAVL.java:23)
+	at TestAVL.testDLeftRotation(TestAVL.java:128)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+3) testRightRotation(TestAVL)junit.framework.AssertionFailedError: Right Rotation expected:<4> but was:<3>
+	at TestAVL.iterate(TestAVL.java:23)
+	at TestAVL.testRightRotation(TestAVL.java:137)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+4) testDRightRotation(TestAVL)junit.framework.AssertionFailedError: Double Right Rotation expected:<4> but was:<3>
+	at TestAVL.iterate(TestAVL.java:23)
+	at TestAVL.testDRightRotation(TestAVL.java:146)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+5) testLargeAdd(TestAVL)junit.framework.AssertionFailedError: Large Add 2 expected:<3> but was:<6>
+	at TestAVL.iterate(TestAVL.java:23)
+	at TestAVL.testLargeAdd(TestAVL.java:167)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+6) testDelete(TestAVL)junit.framework.AssertionFailedError: Small Delete Test expected:<12> but was:<5>
+	at TestAVL.iterate(TestAVL.java:23)
+	at TestAVL.testDelete(TestAVL.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+7) testBigDelete1(TestAVL)junit.framework.AssertionFailedError: Big Delete Test expected:<6> but was:<7>
+	at TestAVL.iterate(TestAVL.java:23)
+	at TestAVL.testBigDelete1(TestAVL.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+8) testBigDelete2(TestAVL)junit.framework.AssertionFailedError: Big Delete Test expected:<6> but was:<7>
+	at TestAVL.iterate(TestAVL.java:23)
+	at TestAVL.testBigDelete2(TestAVL.java:207)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+9) testCascadeDelete(TestAVL)junit.framework.AssertionFailedError: Cascade Delete Test expected:<6> but was:<7>
+	at TestAVL.iterate(TestAVL.java:23)
+	at TestAVL.testCascadeDelete(TestAVL.java:218)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+
+FAILURES!!!
+Tests run: 16,  Failures: 9,  Errors: 0
+
+
+Testing Student's Tests details:
+
+
+Size not always incremented details:
+
+
+Size not decremented details:
+
+
+Delete truncates tree details:
+
+
+Find only goes right details:
+
+
+Rotate Left Broken details:
+
+
+Rotate Right Broken details:
+
+
+No Double Rotations details:
+
+
+Left and Right Rotation Switched details:
+
+
+Two Child Delete Doesn't Rotate details:
+
+

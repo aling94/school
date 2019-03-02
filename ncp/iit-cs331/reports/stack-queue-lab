@@ -1,0 +1,67 @@
+Grading Script Report for aling
+Lab: Stack Queue Lab
+Timestamp: 2012-02-15 20:33:26.733399
+
+* Summary
+Test                                Result             Max Score
+Testing Student's Stacks            Tests Passed       30  30   
+Testing Student's Queues            Tests Passed       30  30   
+Qualifying Student's Test-Stack     Tests Passed       5   5    
+Qualifying Student's Test-Queue     Tests Passed       5   5    
+Push doesn't change size            Your tests worked. 5   5    
+Pop doesn't change size             Your tests worked. 5   5    
+Pop doesn't remove element          Your tests worked. 5   5    
+Pop empty stack makes negative size Your tests worked. 5   5    
+Push replaces all elements          Your tests worked. 5   5    
+Enqueue enters wrong end            Your tests worked. 5   5    
+Dequeue doesn't update size         Your tests worked. 5   5    
+Dequeue doesn't remove element      Your tests worked. 5   5    
+Front removes element               Your tests worked. 5   5    
+Enqueue doesn't update size         Your tests worked. 5   5    
+
+
+Total Score: 120/120
+
+* Details
+Testing Student's Stacks details:
+
+
+Testing Student's Queues details:
+
+
+Qualifying Student's Test-Stack details:
+
+
+Qualifying Student's Test-Queue details:
+
+
+Push doesn't change size details:
+
+
+Pop doesn't change size details:
+
+
+Pop doesn't remove element details:
+
+
+Pop empty stack makes negative size details:
+
+
+Push replaces all elements details:
+
+
+Enqueue enters wrong end details:
+
+
+Dequeue doesn't update size details:
+
+
+Dequeue doesn't remove element details:
+
+
+Front removes element details:
+
+
+Enqueue doesn't update size details:
+
+

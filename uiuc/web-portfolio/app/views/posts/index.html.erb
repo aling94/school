@@ -1,0 +1,19 @@
+<!-- Index view. This is the home page. -->
+
+<div class="container-fluid proj-info" style="padding: 20px">
+  <h1>Projects: </h1>
+</div>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-2 sidebar">
+      <ul class="nav nav-sidebar">
+        <% @tree.each do |name,_| %>
+          <li><a href="posts/<%= name %>"><h3><%= name %></h3></a></li>
+        <% end %>
+      </ul>
+    </div>
+  </div>
+</div>
+
+

@@ -1,0 +1,43 @@
+Grading Script Report for aling
+Lab: BST Lab
+Timestamp: 2012-03-22 16:40:32.720632
+
+* Summary
+Test                                 Result             Max Score
+Testing Student's BST                Tests Passed       20  20   
+Testing Student's Tests              Tests Passed       5   5    
+Size not always incremented          Your tests worked. 5   5    
+Size not decremented                 Your tests worked. 5   5    
+Delete truncates tree                Your tests worked. 5   5    
+Find only returns null               Your tests worked. 5   5    
+Insert only goes one direction       Your tests worked. 5   5    
+BFS enqueues children in wrong order Your tests worked. 5   5    
+
+
+Total Score: 55/55
+
+* Details
+Testing Student's BST details:
+
+
+Testing Student's Tests details:
+
+
+Size not always incremented details:
+
+
+Size not decremented details:
+
+
+Delete truncates tree details:
+
+
+Find only returns null details:
+
+
+Insert only goes one direction details:
+
+
+BFS enqueues children in wrong order details:
+
+

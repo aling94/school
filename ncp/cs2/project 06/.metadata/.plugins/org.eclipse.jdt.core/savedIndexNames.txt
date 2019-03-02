@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+C:\Users\Phil\Dropbox\CS II - Nguyen\tecs-software-suite-2.5\project 06\.metadata\.plugins\org.eclipse.jdt.core
+2877109961.index
+3585733931.index
+3000053649.index
+971827738.index
+4257325822.index

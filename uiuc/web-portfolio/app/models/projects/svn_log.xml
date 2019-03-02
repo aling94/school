@@ -1,0 +1,5254 @@
+<?xml version="1.0"?>
+<log>
+<logentry
+   revision="9097">
+<author>aling3</author>
+<date>2016-03-11T11:43:55.283094Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/layouts/application.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/stylesheets/application.scss</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/index.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/partials/_file_info.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/stylesheets/bootstrap-tree.css</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/models/dir_item.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/partials/_dir_tree.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/stylesheets/bootstrap-combined.min.css</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/models/item.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/log/development.log</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/show.html.erb</path>
+</paths>
+<msg>added more docs</msg>
+</logentry>
+<logentry
+   revision="9090">
+<author>aling3</author>
+<date>2016-03-11T11:09:31.115670Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/layouts/application.html.erb</path>
+</paths>
+<msg>my face is now clickable
+</msg>
+</logentry>
+<logentry
+   revision="9089">
+<author>aling3</author>
+<date>2016-03-11T11:03:29.760821Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/layouts/application.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/stylesheets/application.scss</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/assets/images/bg-green.jpg</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/index.html.erb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/helpers/pages_helper.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/assets/images/alvin.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/assets/images/bg-sky.png</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/show.html.erb</path>
+</paths>
+<msg>added my face</msg>
+</logentry>
+<logentry
+   revision="9081">
+<author>aling3</author>
+<date>2016-03-11T09:57:05.328433Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/layouts/application.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/config/application.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/stylesheets/application.scss</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/index.html.erb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/models/projects.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/partials/_file_info.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/models/file_item.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/show.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/.idea/Assignment3.0.iml</path>
+</paths>
+<msg>directory tests</msg>
+</logentry>
+<logentry
+   revision="9060">
+<author>aling3</author>
+<date>2016-03-11T07:40:59.621803Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/config/application.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/test/models/dir_item_test.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/models/dir_item.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/test/fixtures/test_list.xml</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/.idea/Assignment3.0.iml</path>
+</paths>
+<msg>directory tests</msg>
+</logentry>
+<logentry
+   revision="9053">
+<author>aling3</author>
+<date>2016-03-11T06:47:50.721165Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/test/models/file_item_test.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/test/fixtures/test_log.xml</path>
+</paths>
+<msg>file tests</msg>
+</logentry>
+<logentry
+   revision="9045">
+<author>aling3</author>
+<date>2016-03-11T06:24:56.165353Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/layouts/application.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/stylesheets/application.scss</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/index.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/partials/_file_info.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/test/models/dir_item_test.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/test/models/file_item_test.rb</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment3.0/test/fixtures/file_test.xml"
+   copyfrom-rev="9032"
+   action="A">/aling3/Assignment3.0/test/fixtures/test_list.xml</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment3.0/test/models/item_test.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/models/file_item.rb</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment3.0/test/fixtures/file_test.xml</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/show.html.erb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/test/fixtures/test_log.xml</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/.idea/Assignment3.0.iml</path>
+</paths>
+<msg>file tests</msg>
+</logentry>
+<logentry
+   revision="9032">
+<author>aling3</author>
+<date>2016-03-11T05:07:25.801348Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/test/fixtures/file_test.xml</path>
+</paths>
+<msg>test data for files</msg>
+</logentry>
+<logentry
+   revision="9026">
+<author>aling3</author>
+<date>2016-03-11T03:58:01.045574Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/javascripts/file-info.js</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/partials/_file_info.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/stylesheets/bootstrap-tree.css</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/stylesheets/bootstrap-combined.min.css</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/models/file_item.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/show.html.erb</path>
+</paths>
+<msg>iframe added</msg>
+</logentry>
+<logentry
+   revision="8993">
+<author>aling3</author>
+<date>2016-03-11T01:14:42.121215Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/controllers/pages_controller.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/javascripts/file-info.js</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/partials/_file_info.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/partials/_dir_tree.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/models/file_item.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/show.html.erb</path>
+</paths>
+<msg>file information showing</msg>
+</logentry>
+<logentry
+   revision="8973">
+<author>aling3</author>
+<date>2016-03-10T23:07:21.066580Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/aling3/Assignment3.0/app/views/pages/asn12.html.erb</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment3.0/app/views/pages/asn21.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/layouts/application.html.erb</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment3.0/app/views/pages/partials/_rev_list.html.erb</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment3.0/app/views/pages/partials/_rev_list.html.erb"
+   copyfrom-rev="8935"
+   action="A">/aling3/Assignment3.0/app/views/pages/partials/_file_info.html.erb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/assets/javascripts/file-info.js</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/stylesheets/bootstrap-tree.css</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/javascripts/bootstrap-tree.js</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/partials/_dir_tree.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/models/file_item.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/show.html.erb</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment3.0/app/views/pages/asn10.html.erb</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment3.0/app/views/pages/asn11.html.erb</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment3.0/app/views/pages/asn20.html.erb</path>
+</paths>
+<msg>parameterized show</msg>
+</logentry>
+<logentry
+   revision="8943">
+<author>aling3</author>
+<date>2016-03-10T21:58:14.082315Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/controllers/pages_controller.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/views/pages/show.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/config/routes.rb</path>
+</paths>
+<msg>parameterized show</msg>
+</logentry>
+<logentry
+   revision="8935">
+<author>aling3</author>
+<date>2016-03-10T21:39:54.816308Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment3.0/app/views/pages/asn12.erb"
+   copyfrom-rev="8934"
+   action="A">/aling3/Assignment3.0/app/views/pages/asn12.html.erb</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment3.0/app/views/pages/partials/_rev_list.erb"
+   copyfrom-rev="8934"
+   action="A">/aling3/Assignment3.0/app/views/pages/partials/_rev_list.html.erb</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment3.0/app/views/pages/partials/_dir_tree.erb</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment3.0/app/views/pages/partials/_dir_tree.erb"
+   copyfrom-rev="8934"
+   action="A">/aling3/Assignment3.0/app/views/pages/partials/_dir_tree.html.erb</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment3.0/app/views/pages/asn12.erb</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment3.0/app/views/pages/partials/_rev_list.erb</path>
+</paths>
+<msg>rename partials and asn page</msg>
+</logentry>
+<logentry
+   revision="8934">
+<author>aling3</author>
+<date>2016-03-10T21:38:24.028553Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/asn21.html.erb</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment3.0/app/views/pages/_dir_tree.erb"
+   copyfrom-rev="8927"
+   action="A">/aling3/Assignment3.0/app/views/pages/partials/_dir_tree.erb</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment3.0/app/views/pages/_dir_tree.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/asn12.erb</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment3.0/app/views/pages/_rev_list.erb"
+   copyfrom-rev="8720"
+   action="A">/aling3/Assignment3.0/app/views/pages/partials/_rev_list.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/asn10.html.erb</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment3.0/app/views/pages/_rev_list.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/asn11.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/asn20.html.erb</path>
+</paths>
+<msg>partial dir</msg>
+</logentry>
+<logentry
+   revision="8928">
+<author>aling3</author>
+<date>2016-03-10T21:28:26.120011Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/app/views/pages/partials</path>
+</paths>
+<msg>partial dir</msg>
+</logentry>
+<logentry
+   revision="8927">
+<author>aling3</author>
+<date>2016-03-10T21:27:27.863209Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/layouts/application.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/asn21.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/_dir_tree.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/javascripts/bootstrap-tree.js</path>
+</paths>
+<msg>fixed js loading</msg>
+</logentry>
+<logentry
+   revision="8910">
+<author>aling3</author>
+<date>2016-03-10T20:42:19.358757Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/controllers/pages_controller.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/layouts/application.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/asn21.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/stylesheets/application.scss</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/index.html.erb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/assets/stylesheets/bootstrap-tree.css</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/_dir_tree.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/javascripts/bootstrap-tree.js</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/stylesheets/bootstrap-combined.min.css</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/log/development.log</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/config/routes.rb</path>
+</paths>
+<msg>bootstrap tree functional</msg>
+</logentry>
+<logentry
+   revision="8776">
+<author>aling3</author>
+<date>2016-03-10T07:27:04.370974Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/layouts/application.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/asn21.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/stylesheets/application.scss</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/index.html.erb</path>
+</paths>
+<msg>css working
+</msg>
+</logentry>
+<logentry
+   revision="8761">
+<author>aling3</author>
+<date>2016-03-10T06:56:44.558779Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/controllers/pages_controller.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/layouts/application.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/asn21.html.erb</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment3.0/app/assets/stylesheets/application.css.scss"
+   copyfrom-rev="8735"
+   action="A">/aling3/Assignment3.0/app/assets/stylesheets/application.scss</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/index.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/Gemfile.lock</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment3.0/app/assets/stylesheets/application.css.scss</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/log/development.log</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/config/environments/production.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/Gemfile</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/config/routes.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/.idea/Assignment3.0.iml</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/asn20.html.erb</path>
+</paths>
+<msg>webdev is ruining my life - needed node to render</msg>
+</logentry>
+<logentry
+   revision="8735">
+<author>aling3</author>
+<date>2016-03-10T05:49:24.779651Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/layouts/application.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/stylesheets/application.css.scss</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/javascripts/application.js</path>
+</paths>
+<msg>scss styles</msg>
+</logentry>
+<logentry
+   revision="8720">
+<author>aling3</author>
+<date>2016-03-10T05:23:14.461876Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/views/pages/asn21.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/Gemfile.lock</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/assets/javascripts/bootstrap-tree.js</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/assets/stylesheets/bootstrap-combined.min.css</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/log/development.log</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/Gemfile</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/.idea/Assignment3.0.iml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/views/pages/_rev_list.erb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/views/pages/asn20.html.erb</path>
+</paths>
+<msg>scss styles</msg>
+</logentry>
+<logentry
+   revision="8719">
+<author>aling3</author>
+<date>2016-03-10T05:22:55.010813Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment3.0/app/assets/stylesheets/application.css"
+   copyfrom-rev="8667"
+   action="A">/aling3/Assignment3.0/app/assets/stylesheets/application.css.scss</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment3.0/app/assets/stylesheets/application.css</path>
+</paths>
+<msg>scss styles</msg>
+</logentry>
+<logentry
+   revision="8669">
+<author>aling3</author>
+<date>2016-03-10T03:21:19.235655Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/controllers/pages_controller.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/index.html.erb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/views/pages/_dir_tree.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/models/dir_item.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/models/item.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/views/pages/asn12.erb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/views/pages/asn10.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/config/routes.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/views/pages/asn11.html.erb</path>
+</paths>
+<msg>rendering pages thru partials</msg>
+</logentry>
+<logentry
+   revision="8617">
+<author>aling3</author>
+<date>2016-03-10T00:20:58.095055Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/controllers/pages_controller.rb</path>
+</paths>
+<msg>remove unneeded requires</msg>
+</logentry>
+<logentry
+   revision="8615">
+<author>aling3</author>
+<date>2016-03-10T00:20:13.492064Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/config/application.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/views/pages/index.html.erb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/.idea/Assignment3.0.iml</path>
+</paths>
+<msg>backend functional</msg>
+</logentry>
+<logentry
+   revision="8614">
+<author>aling3</author>
+<date>2016-03-10T00:14:35.159669Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/controllers/pages_controller.rb</path>
+</paths>
+<msg>testing page controller</msg>
+</logentry>
+<logentry
+   revision="8613">
+<author>aling3</author>
+<date>2016-03-10T00:13:49.902649Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/models/dir_item.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/models/file_item.rb</path>
+<path
+   kind="dir"
+   action="M">/aling3/Assignment3.0/app/models</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/models/item.rb</path>
+</paths>
+<msg>file system structs finished</msg>
+</logentry>
+<logentry
+   revision="8554">
+<author>aling3</author>
+<date>2016-03-09T08:06:50.517542Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/data/svn_list.xml</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/data/svn_log.xml</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/models/dir_item.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/models/file_item.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/models/item.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/models/svn_list.xml</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/.idea/Assignment3.0.iml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/models/svn_log.xml</path>
+</paths>
+<msg>file system structs adde</msg>
+</logentry>
+<logentry
+   revision="8494">
+<author>aling3</author>
+<date>2016-03-09T00:37:33.663359Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/controllers/pages_controller.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/assets/javascripts/pages.coffee</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/assets/stylesheets/pages.scss</path>
+</paths>
+<msg>added page files</msg>
+</logentry>
+<logentry
+   revision="8493">
+<author>aling3</author>
+<date>2016-03-09T00:33:48.095647Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/test/models/dir_item_test.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/test/models/file_item_test.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/models/dir_item.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/test/models/item_test.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/models/file_item.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/models/item.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/log/development.log</path>
+</paths>
+<msg>added model files for files and dirs
+</msg>
+</logentry>
+<logentry
+   revision="8492">
+<author>aling3</author>
+<date>2016-03-09T00:25:38.978266Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/data/svn_list.xml</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/data/svn_log.xml</path>
+</paths>
+<msg>updated svn log files</msg>
+</logentry>
+<logentry
+   revision="8491">
+<author>aling3</author>
+<date>2016-03-09T00:16:08.256822Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/data/svn_list.xml</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/app/assets/data/svn_log.xml</path>
+</paths>
+<msg>
+svn log files updated</msg>
+</logentry>
+<logentry
+   revision="8436">
+<author>aling3</author>
+<date>2016-03-08T04:15:15.947603Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/assets/data/svn_list.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/assets/data/svn_log.xml</path>
+</paths>
+<msg>data dir</msg>
+</logentry>
+<logentry
+   revision="8435">
+<author>aling3</author>
+<date>2016-03-08T04:14:28.524054Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment3.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/.idea/vcs.xml</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/app/assets/data</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/.idea/runConfigurations/Production__Assignment3_0.xml</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/.idea/runConfigurations</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/.idea/runConfigurations/spec__Assignment3_0.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/.idea/runConfigurations/test__Assignment3_0.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/.idea/runConfigurations/Development__Assignment3_0.xml</path>
+</paths>
+<msg>data dir</msg>
+</logentry>
+<logentry
+   revision="8434">
+<author>aling3</author>
+<date>2016-03-08T03:52:29.459574Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/config.ru</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/config/initializers/inflections.rb</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/lib/tasks</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/config/environments</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/tmp/cache</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/app/models</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/test/models/.keep</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/config</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/Gemfile</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/bin/setup</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/config/database.yml</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/test/mailers</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/config/initializers</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/config/environment.rb</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/app/mailers</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/app/views/layouts</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/vendor/assets/stylesheets/.keep</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/models/concerns/.keep</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/log</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/Rakefile</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/bin/rails</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/README.rdoc</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/config/environments/production.rb</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/db</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/helpers/application_helper.rb</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/config/locales</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/test/controllers/.keep</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/assets/images/.keep</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/test/fixtures/.keep</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/db/seeds.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/lib/tasks/.keep</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/views/pages/index.html.erb</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/test/models</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/controllers/concerns/.keep</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/config/initializers/cookies_serializer.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/models/.keep</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/config/initializers/wrap_parameters.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/config/boot.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/lib/assets/.keep</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/app/assets/javascripts</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/config/initializers/session_store.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/test/mailers/.keep</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/app/views</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/public</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/app/assets</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/log/.keep</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/test/fixtures</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/public/422.html</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/config/routes.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/vendor/assets/javascripts/.keep</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/bin/rake</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/vendor</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/app/assets/stylesheets</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/test/test_helper.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/Gemfile.lock</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/app/controllers/concerns</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/test/integration/.keep</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/public/robots.txt</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/.gitignore</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/lib</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/lib/assets</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/bin</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/app/views/pages</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/public/favicon.ico</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/config/secrets.yml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/config/initializers/assets.rb</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/test/helpers</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/app/helpers</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/log/development.log</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/public/500.html</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/vendor/assets/javascripts</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/test/controllers/pages_controller_test.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/.idea/Assignment3.0.iml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/assets/javascripts/application.js</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/views/layouts/application.html.erb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/controllers/application_controller.rb</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/vendor/assets</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/tmp</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/test/integration</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/config/initializers/backtrace_silencers.rb</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/tmp/cache/assets</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/config/initializers/filter_parameter_logging.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/config/application.rb</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/vendor/assets/stylesheets</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/app/models/concerns</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/config/environments/test.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/mailers/.keep</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/test</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/.idea</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/app</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/config/environments/development.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/bin/bundle</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/test/helpers/.keep</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/test/controllers</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/app/controllers</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment3.0/app/assets/images</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/config/initializers/mime_types.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/app/assets/stylesheets/application.css</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/public/404.html</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment3.0/config/locales/en.yml</path>
+</paths>
+<msg>asn3.0 dir</msg>
+</logentry>
+<logentry
+   revision="7939">
+<author>aling3</author>
+<date>2016-03-03T19:36:37.557647Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/graph.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/test/graph/graph2_test.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/.idea/Assignment2.0.iml</path>
+</paths>
+<msg>fixed messages</msg>
+</logentry>
+<logentry
+   revision="7934">
+<author>aling3</author>
+<date>2016-03-03T19:21:22.259729Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/graph.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/cs_air.rb</path>
+</paths>
+<msg>fixed messages</msg>
+</logentry>
+<logentry
+   revision="7857">
+<author>aling3</author>
+<date>2016-03-03T09:51:49.730548Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/graph.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/test/graph/graph2_test.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/.idea/Assignment2.0.iml</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/cs_air.rb</path>
+</paths>
+<msg>tui-more messages</msg>
+</logentry>
+<logentry
+   revision="7787">
+<author>aling3</author>
+<date>2016-03-03T02:58:55.395428Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/graph.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/test/graph/graph_test.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/.idea/Assignment2.0.iml</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/cs_air.rb</path>
+</paths>
+<msg>tui-more messages</msg>
+</logentry>
+<logentry
+   revision="7786">
+<author>aling3</author>
+<date>2016-03-03T02:33:00.342708Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/cs_air.rb</path>
+</paths>
+<msg>tui-more messages</msg>
+</logentry>
+<logentry
+   revision="7783">
+<author>aling3</author>
+<date>2016-03-03T02:17:45.568078Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/cs_air.rb</path>
+</paths>
+<msg>tui-more messages</msg>
+</logentry>
+<logentry
+   revision="7778">
+<author>aling3</author>
+<date>2016-03-03T00:03:44.484246Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/graph.rb</path>
+</paths>
+<msg>fib pqueue added</msg>
+</logentry>
+<logentry
+   revision="7768">
+<author>aling3</author>
+<date>2016-03-02T21:16:17.166665Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/cs_air.rb</path>
+</paths>
+<msg>fixed float roundoff</msg>
+</logentry>
+<logentry
+   revision="7767">
+<author>aling3</author>
+<date>2016-03-02T21:04:42.543592Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/test/graph/graph2_test.rb</path>
+</paths>
+<msg>fixed float roundoff</msg>
+</logentry>
+<logentry
+   revision="7766">
+<author>aling3</author>
+<date>2016-03-02T21:04:32.593649Z</date>
+<paths>
+<path
+   kind="dir"
+   action="M">/aling3/Assignment2.1/lib/graph</path>
+</paths>
+<msg>fixed float roundoff</msg>
+</logentry>
+<logentry
+   revision="7765">
+<author>aling3</author>
+<date>2016-03-02T21:03:41.688318Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/graph.rb</path>
+</paths>
+<msg>fixed float roundoff</msg>
+</logentry>
+<logentry
+   revision="7761">
+<author>aling3</author>
+<date>2016-03-02T19:27:56.591053Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/cs_air.rb</path>
+</paths>
+<msg>integrating tui</msg>
+</logentry>
+<logentry
+   revision="7758">
+<author>aling3</author>
+<date>2016-03-02T19:13:36.205888Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/graph.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/test/graph/graph_test.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/test/graph/graph2_test.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/.idea/Assignment2.0.iml</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/cs_air.rb</path>
+</paths>
+<msg>integrating tui</msg>
+</logentry>
+<logentry
+   revision="7748">
+<author>aling3</author>
+<date>2016-03-02T11:24:13.506901Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/graph.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/node.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/cs_air.rb</path>
+</paths>
+<msg>integrating tui</msg>
+</logentry>
+<logentry
+   revision="7733">
+<author>aling3</author>
+<date>2016-03-02T07:41:20.739254Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/graph.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/cs_air.rb</path>
+</paths>
+<msg>integrating tui</msg>
+</logentry>
+<logentry
+   revision="7725">
+<author>aling3</author>
+<date>2016-03-02T06:30:37.403023Z</date>
+<paths>
+<path
+   kind="dir"
+   action="M">/aling3/Assignment2.1/data/graph</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/node.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/test/graph/graph2_test.rb</path>
+</paths>
+<msg>testing for new functions</msg>
+</logentry>
+<logentry
+   revision="7722">
+<author>aling3</author>
+<date>2016-03-02T06:16:50.173341Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/test/graph/graph2_test.rb</path>
+</paths>
+<msg>testing for new functions</msg>
+</logentry>
+<logentry
+   revision="7716">
+<author>aling3</author>
+<date>2016-03-02T05:48:52.664673Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/data/graph/test_data.json</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/graph.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/node.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.1/test/graph/graph2_test.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/.idea/Assignment2.0.iml</path>
+</paths>
+<msg>testing for new functions</msg>
+</logentry>
+<logentry
+   revision="7698">
+<author>aling3</author>
+<date>2016-03-02T03:24:59.604440Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/aling3/Assignment2.1/test/graph/GraphTest2.rb</path>
+</paths>
+<msg>redo test file</msg>
+</logentry>
+<logentry
+   revision="7697">
+<author>aling3</author>
+<date>2016-03-02T03:24:25.945677Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.1/test/graph/GraphTest2.rb</path>
+</paths>
+<msg>redo test file</msg>
+</logentry>
+<logentry
+   revision="7695">
+<author>aling3</author>
+<date>2016-03-02T03:19:52.120167Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/aling3/Assignment2.1/test/graph/GraphTest2.rb</path>
+</paths>
+<msg>redo test file</msg>
+</logentry>
+<logentry
+   revision="7694">
+<author>aling3</author>
+<date>2016-03-02T03:19:38.589975Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.1/test/graph/GraphTest2.rb</path>
+</paths>
+<msg>redo test file</msg>
+</logentry>
+<logentry
+   revision="7692">
+<author>aling3</author>
+<date>2016-03-02T03:15:33.505493Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/aling3/Assignment2.1/test/graph/graph_test_v2.rb</path>
+</paths>
+<msg>redo test file</msg>
+</logentry>
+<logentry
+   revision="7691">
+<author>aling3</author>
+<date>2016-03-02T03:14:42.405778Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/test/graph/graph_test_v2.rb</path>
+</paths>
+<msg>shortest path</msg>
+</logentry>
+<logentry
+   revision="7688">
+<author>aling3</author>
+<date>2016-03-02T02:45:21.519967Z</date>
+<paths>
+<path
+   kind="dir"
+   action="M">/aling3/Assignment2.1/data/graph</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.1/data/graph/test_data.json</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/graph.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/node.rb</path>
+<path
+   kind="dir"
+   action="M">/aling3/Assignment2.1/lib/graph</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/.idea/Assignment2.0.iml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.1/data/graph/cmi_hub.json</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.1/test/graph/graph_test_v2.rb</path>
+</paths>
+<msg>shortest path</msg>
+</logentry>
+<logentry
+   revision="7653">
+<author>aling3</author>
+<date>2016-03-01T21:13:36.128722Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/graph.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/node.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/cs_air.rb</path>
+</paths>
+<msg>finished travel info</msg>
+</logentry>
+<logentry
+   revision="7632">
+<author>aling3</author>
+<date>2016-03-01T17:27:32.931426Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/graph.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/test/graph/graph_test.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/cs_air.rb</path>
+</paths>
+<msg>calc route info</msg>
+</logentry>
+<logentry
+   revision="7606">
+<author>aling3</author>
+<date>2016-03-01T07:35:07.936194Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/graph.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/node.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/cs_air.rb</path>
+</paths>
+<msg>add/rmv nodes and routes</msg>
+</logentry>
+<logentry
+   revision="7581">
+<author>aling3</author>
+<date>2016-03-01T02:47:12.509500Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/graph.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/node.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/test/graph/graph_test.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.1/lib/graph/cs_air.rb</path>
+</paths>
+<msg>refactored tui</msg>
+</logentry>
+<logentry
+   revision="7559">
+<author>aling3</author>
+<date>2016-02-29T20:01:59.994538Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.1/lib/graph/node.rb</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.1</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.1/test/graph/node_test.rb</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.1/lib</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.1/lib/graph</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.1/bin</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.1/data</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.1/lib/graph/cs_air.rb</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.1/data/graph</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.1/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.1/lib/graph/graph.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.1/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.1/test</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.1/test/graph</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.1/.idea</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.1/test/graph/graph_test.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.1/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.1/.idea/Assignment2.0.iml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.1/data/graph/map_data.json</path>
+</paths>
+<msg>asn2.1 dir</msg>
+</logentry>
+<logentry
+   revision="7210">
+<author>aling3</author>
+<date>2016-02-26T06:17:41.842542Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/graph/graph.rb</path>
+</paths>
+<msg>refactorings</msg>
+</logentry>
+<logentry
+   revision="7202">
+<author>aling3</author>
+<date>2016-02-26T05:59:45.885730Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/graph/graph.rb</path>
+</paths>
+<msg>another comment</msg>
+</logentry>
+<logentry
+   revision="7201">
+<author>aling3</author>
+<date>2016-02-26T05:59:22.300087Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/graph/cs_air.rb</path>
+</paths>
+<msg>another comment</msg>
+</logentry>
+<logentry
+   revision="7200">
+<author>aling3</author>
+<date>2016-02-26T05:57:31.639205Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/graph/cs_air.rb</path>
+</paths>
+<msg>rename dispatch</msg>
+</logentry>
+<logentry
+   revision="7199">
+<author>aling3</author>
+<date>2016-02-26T05:56:00.842196Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/test/graph/graph_test.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/test/graph/node_test.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/graph/cs_air.rb</path>
+</paths>
+<msg>more comments</msg>
+</logentry>
+<logentry
+   revision="7194">
+<author>aling3</author>
+<date>2016-02-26T05:43:25.317699Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/test/graph/graph_test.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/graph/cs_air.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/graph/graph.rb</path>
+</paths>
+<msg>tui working</msg>
+</logentry>
+<logentry
+   revision="7175">
+<author>aling3</author>
+<date>2016-02-26T04:46:15.572828Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/test/graph/graph_test.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/.idea/Assignment2.0.iml</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/graph/cs_air.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/graph/graph.rb</path>
+</paths>
+<msg>working on tui</msg>
+</logentry>
+<logentry
+   revision="7167">
+<author>aling3</author>
+<date>2016-02-26T03:07:28.884147Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/lib/graph/node.rb</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/test/graph/node_test.rb</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/lib</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/lib/graph</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/bin</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/data</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/lib/graph/cs_air.rb</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/data/graph</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/lib/graph/graph.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/test</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/test/graph</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/.idea</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/test/graph/graph_test.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/.idea/Assignment2.0.iml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/data/graph/map_data.json</path>
+</paths>
+<msg>redoing dir</msg>
+</logentry>
+<logentry
+   revision="7165">
+<author>aling3</author>
+<date>2016-02-26T03:04:24.048097Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/aling3/Assignment2.0</path>
+</paths>
+<msg>redoing again</msg>
+</logentry>
+<logentry
+   revision="7164">
+<author>aling3</author>
+<date>2016-02-26T02:58:48.429121Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/lib/graph/node.rb</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/test/graph/node_test.rb</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/lib</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/lib/graph</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/bin</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/data</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/lib/graph/cs_air.rb</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/data/graph</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/lib/graph/graph.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/test</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/test/graph</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/.idea</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/test/graph/graph_test.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/.idea/Assignment2.0.iml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/data/graph/map_data.json</path>
+</paths>
+<msg>redoing dir</msg>
+</logentry>
+<logentry
+   revision="7163">
+<author>aling3</author>
+<date>2016-02-26T02:58:06.294068Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/aling3/Assignment2.0</path>
+</paths>
+<msg>deleting assignment2 dir</msg>
+</logentry>
+<logentry
+   revision="7161">
+<author>aling3</author>
+<date>2016-02-26T02:42:43.197807Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/aling3/Assignment2.0/test/Graph</path>
+<path
+   kind="dir"
+   copyfrom-path="/aling3/Assignment2.0/test/Graph"
+   copyfrom-rev="7159"
+   action="A">/aling3/Assignment2.0/test/graph</path>
+<path
+   kind="dir"
+   action="D">/aling3/Assignment2.0/lib/Graph</path>
+<path
+   kind="dir"
+   copyfrom-path="/aling3/Assignment2.0/lib/Graph"
+   copyfrom-rev="7159"
+   action="A">/aling3/Assignment2.0/lib/graph</path>
+</paths>
+<msg>rename all Graph dirs</msg>
+</logentry>
+<logentry
+   revision="7160">
+<author>aling3</author>
+<date>2016-02-26T02:41:24.301118Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/aling3/Assignment2.0/lib/graph</path>
+</paths>
+<msg>deleted duplicate dir</msg>
+</logentry>
+<logentry
+   revision="7159">
+<author>aling3</author>
+<date>2016-02-26T02:38:44.534258Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment2.0/lib/Graph/node.rb"
+   copyfrom-rev="7145"
+   action="R">/aling3/Assignment2.0/lib/graph/node.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/.idea/ANS2.0.iml</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/test/Graph/node_test.rb</path>
+<path
+   kind="dir"
+   copyfrom-path="/aling3/Assignment2.0/lib/Graph"
+   copyfrom-rev="7076"
+   action="A">/aling3/Assignment2.0/lib/graph</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment2.0/lib/Graph/cs_air.rb"
+   copyfrom-rev="7145"
+   action="A">/aling3/Assignment2.0/lib/graph/cs_air.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/Graph/graph.rb</path>
+</paths>
+<msg>renamed graph dir</msg>
+</logentry>
+<logentry
+   revision="7158">
+<author>aling3</author>
+<date>2016-02-26T02:37:30.022453Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/aling3/Assignment2.0/data/Graph</path>
+<path
+   kind="dir"
+   copyfrom-path="/aling3/Assignment2.0/data/Graph"
+   copyfrom-rev="7157"
+   action="A">/aling3/Assignment2.0/data/graph</path>
+</paths>
+<msg>rename graph directory</msg>
+</logentry>
+<logentry
+   revision="7145">
+<author>aling3</author>
+<date>2016-02-26T01:21:35.433297Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/Graph/node.rb</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/test/Graph</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/.idea/ANS2.0.iml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/test/Graph/graph_test.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/test/Graph/node_test.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/lib/Graph/cs_air.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/Graph/graph.rb</path>
+</paths>
+<msg>docs and tests added</msg>
+</logentry>
+<logentry
+   revision="6870">
+<author>aling3</author>
+<date>2016-02-25T04:45:37.559314Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/Graph/node.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/Graph/graph.rb</path>
+</paths>
+<msg>everything except for visualizer and tui</msg>
+</logentry>
+<logentry
+   revision="6830">
+<author>aling3</author>
+<date>2016-02-24T22:35:33.850701Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/aling3/Assignment2.0/lib/Graph/edge.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/Graph/node.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/Graph/graph.rb</path>
+</paths>
+<msg>fixed coordinate field for nodes</msg>
+</logentry>
+<logentry
+   revision="6829">
+<author>aling3</author>
+<date>2016-02-24T22:26:26.957630Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/Graph/graph.rb</path>
+</paths>
+<msg>changed key of edge hash to sets</msg>
+</logentry>
+<logentry
+   revision="6814">
+<author>aling3</author>
+<date>2016-02-24T19:08:26.674027Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/aling3/Assignment2.0/lib/Graph/city_info.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/Graph/edge.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/Graph/node.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/Graph/graph.rb</path>
+</paths>
+<msg>added some constructors for nodes/edges</msg>
+</logentry>
+<logentry
+   revision="6751">
+<author>aling3</author>
+<date>2016-02-24T04:11:45.133169Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/Graph/edge.rb</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment2.0/map_data.json</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/lib/Graph/node.rb</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/.idea/ANS2.0.iml</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment2.0/map_data.json"
+   copyfrom-rev="6741"
+   action="A">/aling3/Assignment2.0/data/Graph/map_data.json</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/data</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/data/Graph</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment2.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/lib/Graph/graph.rb</path>
+</paths>
+<msg>added data files</msg>
+</logentry>
+<logentry
+   revision="6741">
+<author>aling3</author>
+<date>2016-02-24T02:50:57.574784Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/lib/Graph/city_info.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/lib/Graph/edge.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/lib/Graph/node.rb</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/map_data.json</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/test</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/.idea</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/.idea/ANS2.0.iml</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/lib</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/lib/Graph</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/.idea/encodings.xml</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment2.0/bin</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment2.0/.idea/misc.xml</path>
+</paths>
+<msg>adding assignment directory</msg>
+</logentry>
+<logentry
+   revision="6185">
+<author>aling3</author>
+<date>2016-02-19T00:29:17.049121Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/ChessGUI/ManualTestPlan2.pdf</path>
+</paths>
+<msg>New manual test plan</msg>
+</logentry>
+<logentry
+   revision="6181">
+<author>aling3</author>
+<date>2016-02-19T00:21:39.916128Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.2/src/test/java/ChessGUI/ManualTestPlan.odt</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/ChessGUI/ManualTestPlan2.pdf</path>
+</paths>
+<msg>New manual test plan</msg>
+</logentry>
+<logentry
+   revision="6162">
+<author>aling3</author>
+<date>2016-02-18T23:32:48.170358Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/PlayerLabel.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUIController.java</path>
+</paths>
+<msg>Tweaked player names and new game confirmation</msg>
+</logentry>
+<logentry
+   revision="6044">
+<author>aling3</author>
+<date>2016-02-18T18:05:25.213517Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUI.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.2/src/main/java/ChessGUI/Player.java</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.2/src/main/java/ChessGUI/Player.java"
+   copyfrom-rev="5914"
+   action="A">/aling3/Assignment1.2/src/main/java/ChessGUI/PlayerLabel.java</path>
+</paths>
+<msg>Made player extend JLabel</msg>
+</logentry>
+<logentry
+   revision="5972">
+<author>aling3</author>
+<date>2016-02-18T09:02:06.530497Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUI.java</path>
+</paths>
+<msg>Added rol/col labels</msg>
+</logentry>
+<logentry
+   revision="5915">
+<author>aling3</author>
+<date>2016-02-18T05:44:38.364817Z</date>
+<paths>
+<path
+   kind="dir"
+   action="M">/aling3/Assignment1.2/src/test/java/ChessGUI</path>
+</paths>
+<msg>Added highlighting for current turn color</msg>
+</logentry>
+<logentry
+   revision="5914">
+<author>aling3</author>
+<date>2016-02-18T05:44:01.946779Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUI.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/Player.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUIController.java</path>
+</paths>
+<msg>Added highlighting for current turn color</msg>
+</logentry>
+<logentry
+   revision="5887">
+<author>aling3</author>
+<date>2016-02-18T04:10:27.764150Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/Player.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Game/Game.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUIController.java</path>
+</paths>
+<msg>Make name prompt truncate names longer than 10 characters</msg>
+</logentry>
+<logentry
+   revision="5886">
+<author>aling3</author>
+<date>2016-02-18T03:50:14.635059Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/Player.java</path>
+</paths>
+<msg>Comment typo</msg>
+</logentry>
+<logentry
+   revision="5885">
+<author>aling3</author>
+<date>2016-02-18T03:42:32.775456Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/PieceIcons.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUI.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/Player.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/SquareButton.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Game/Game.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Game/CustomChessGame.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUIController.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Move.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Game/ChessGame.java</path>
+</paths>
+<msg>Added more comments and refactored controller code for listeners</msg>
+</logentry>
+<logentry
+   revision="5844">
+<author>aling3</author>
+<date>2016-02-18T00:43:05.697834Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUI.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/Player.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUIController.java</path>
+</paths>
+<msg>Added undo to controller</msg>
+</logentry>
+<logentry
+   revision="5839">
+<author>aling3</author>
+<date>2016-02-18T00:11:19.926573Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/Game/ChessGameTest.java</path>
+</paths>
+<msg>Added undo move test for capturing</msg>
+</logentry>
+<logentry
+   revision="5838">
+<author>aling3</author>
+<date>2016-02-17T23:50:18.811563Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/Game/ChessGameTest.java</path>
+</paths>
+<msg>Added undo move test</msg>
+</logentry>
+<logentry
+   revision="5827">
+<author>aling3</author>
+<date>2016-02-17T22:26:47.106090Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUI.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/Player.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/ChessGUI/SquareButton.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUIController.java</path>
+</paths>
+<msg>Refactored board square buttons and highlighting logic</msg>
+</logentry>
+<logentry
+   revision="5826">
+<author>aling3</author>
+<date>2016-02-17T22:26:15.524740Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/Game/ChessGameTest.java</path>
+</paths>
+<msg>Adjusted test to fit new validation logic.</msg>
+</logentry>
+<logentry
+   revision="5825">
+<author>aling3</author>
+<date>2016-02-17T22:25:51.524436Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Game/Game.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Game/ChessGame.java</path>
+</paths>
+<msg>Refactored game state validation</msg>
+</logentry>
+<logentry
+   revision="5762">
+<author>aling3</author>
+<date>2016-02-17T06:08:05.128842Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUI.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Game/Game.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUIController.java</path>
+</paths>
+<msg>Square highlighting added
+</msg>
+</logentry>
+<logentry
+   revision="5737">
+<author>aling3</author>
+<date>2016-02-17T04:06:27.826181Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/PieceIcons.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUI.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/ChessGUI/Player.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Game/CustomChessGame.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUIController.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Game/ChessGame.java</path>
+</paths>
+<msg>Added user prompts to GUI
+</msg>
+</logentry>
+<logentry
+   revision="5608">
+<author>aling3</author>
+<date>2016-02-16T07:37:09.658209Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUI.java</path>
+</paths>
+<msg>Removed unneeded ImageIcon init</msg>
+</logentry>
+<logentry
+   revision="5606">
+<author>aling3</author>
+<date>2016-02-16T07:37:00.335088Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Game/Game.java</path>
+</paths>
+<msg>Removed unneeded ImageIcon init</msg>
+</logentry>
+<logentry
+   revision="5604">
+<author>aling3</author>
+<date>2016-02-16T07:36:20.642694Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/Chess/Pieces/PieceIcons.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Princess.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/King.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Empress.java</path>
+</paths>
+<msg>Refactored ImageIcon setup. Now all Icons loaded at once. And done only once.</msg>
+</logentry>
+<logentry
+   revision="5566">
+<author>aling3</author>
+<date>2016-02-16T02:22:34.100862Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.2/src/test/java/ChessGUI/blacknext.jpg</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/Pieces/RookTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.2/src/test/java/ChessGUI/pawnmoves.jpg</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUI.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.2/src/test/java/ChessGUI/whiteagain.jpg</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/BoardTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Game/Game.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Empress.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/Pieces/KnightTest.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.2/src/test/java/ChessGUI/whitefirst.jpg</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/Pieces/PieceTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/Pieces/KingTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.2/src/test/java/ChessGUI/knightmoves.jpg</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Princess.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/Game/CustomChessGameTest.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.2/src/test/java/ChessGUI/setup.jpg</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/King.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Game/CustomChessGame.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/Game/ChessGameTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Game/ChessGame.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/Pieces/PawnTest.java</path>
+</paths>
+<msg>Optimized piece constructor. IconImage is initialized only when requested via direct call to initIcon</msg>
+</logentry>
+<logentry
+   revision="5559">
+<author>aling3</author>
+<date>2016-02-16T00:51:10.598077Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/cw.png</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUI.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/kw.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/bb.png</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/cb.PNG</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.2/src/main/java/ChessGUI/PieceIcons.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Empress.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/Pieces/BishopTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/Pieces/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/eb.PNG</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/Pieces/PieceTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/qw.png</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/Pieces/KingTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/Game/CustomChessGameTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Princess.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/King.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/nb.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/pb.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/rb.png</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Game/ChessGame.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/src/main/resources/Chess</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/bw.png</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/Pieces/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/ew.PNG</path>
+<path
+   kind="dir"
+   action="D">/aling3/Assignment1.2/src/main/resources/ChessGUI</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/src/main/resources/Chess/Pieces/chesspieces</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/src/main/resources/Chess/Pieces</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Game/Game.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/nw.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/pw.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/rw.png</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/kb.png</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Game/CustomChessGame.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/Game/ChessGameTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/Chess/Pieces/chesspieces/qb.png</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Move.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/test/java/Chess/Pieces/PawnTest.java</path>
+</paths>
+<msg>Refactored Icons into the Piece subclasses</msg>
+</logentry>
+<logentry
+   revision="5547">
+<author>aling3</author>
+<date>2016-02-15T21:27:19.390067Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUI.java</path>
+</paths>
+<msg>Trying custom board GUI</msg>
+</logentry>
+<logentry
+   revision="5526">
+<author>aling3</author>
+<date>2016-02-15T17:47:32.159109Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.2/src/main/java/Chess/Game/Game.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/Chess/Move.java</path>
+</paths>
+<msg>Implemented Move class</msg>
+</logentry>
+<logentry
+   revision="5525">
+<author>aling3</author>
+<date>2016-02-15T17:37:47.761947Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/.idea/codeStyleSettings.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/ChessGUI/chesspieces/pw.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Empress.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/ChessGUI/PieceIcons.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/ChessGUI/whitefirst.jpg</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/Chess/Pieces/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/ChessGUI/setup.jpg</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/Chess/Pieces/King.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/ChessGUI/chesspieces/qb.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/Doxyfile</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/.idea/compiler.xml</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/src/main/java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/src/main/resources/ChessGUI/chesspieces</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/ChessGUI/whiteagain.jpg</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/ChessGUI/ManualTestPlan.pdf</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/Chess/Game/Game.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/ChessGUI/chesspieces/bb.png</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/src/test/java/Chess/Pieces</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/src/main/java/ChessGUI</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/ChessGUI/chesspieces/eb.PNG</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/ChessGUI/chesspieces/qw.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/ChessGUI/chesspieces/nb.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/ChessGUI/chesspieces/rb.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/Chess/Game/CustomChessGame.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/Chess/Game/ChessGameTest.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/src/main/resources</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/src</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/.idea/encodings.xml</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/ChessGUI/chesspieces/bw.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/ChessGUI/blacknext.jpg</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/ChessGUI/chesspieces/ew.PNG</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/ChessGUI/ChessGUI.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/src/main/java/Chess</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/ChessGUI/chesspieces/nw.png</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/src/test/java/Chess/Game</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/Chess/Pieces/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/ChessGUI/chesspieces/rw.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/Chess/Pieces/PieceTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/.idea/vcs.xml</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/src/main/java/Chess/Game</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/ChessGUI/chesspieces/kb.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/Chess/Pieces/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/Chess/SquareTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/Chess/Game/CustomChessGameTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/Chess/Pieces/Princess.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/Chess.iml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/Chess/Game/ChessGame.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/ChessGUI/chesspieces/cw.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/src/test/java/Chess</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/Chess/Pieces/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/ChessGUI/pawnmoves.jpg</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/src/main/resources/ChessGUI</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/Chess/Pieces/PieceTester.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/ChessGUI/chesspieces/kw.png</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/src/test/java/ChessGUI</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/Chess/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/ChessGUI/chesspieces/cb.PNG</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/src/test</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/Chess/Board.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/src/main/java/Chess/Pieces</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/.idea/misc.xml</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/src/main</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/ChessGUI/ManualTestPlan.odt</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/ChessGUI/knightmoves.jpg</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/.idea</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/resources/ChessGUI/chesspieces/pb.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/main/java/Chess/Square.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.2/src/test/java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.2/src/test/java/Chess/Pieces/PawnTest.java</path>
+</paths>
+<msg>assignment1.2 directory</msg>
+</logentry>
+<logentry
+   revision="4978">
+<author>aling3</author>
+<date>2016-02-12T02:41:19.953860Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/Chess/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/Chess/Square.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/Chess/Game/Game.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/Chess/Game/CustomChessGame.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/ChessGUI/PieceIcons.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/Chess/Game/ChessGame.java</path>
+</paths>
+<msg>Doxygen formatting</msg>
+</logentry>
+<logentry
+   revision="4970">
+<author>aling3</author>
+<date>2016-02-12T02:19:15.579935Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/test/java/ChessGUI/ManualTestPlan.pdf</path>
+</paths>
+<msg>Manual test plan update</msg>
+</logentry>
+<logentry
+   revision="4928">
+<author>aling3</author>
+<date>2016-02-12T00:32:16.671534Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/test/java/ChessGUI</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/test/java/ChessGUI/ManualTestPlan.pdf</path>
+</paths>
+<msg>Manual test plan</msg>
+</logentry>
+<logentry
+   revision="4881">
+<author>aling3</author>
+<date>2016-02-11T22:05:36.215477Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/.idea/codeStyleSettings.xml</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/test/java/Chess/Pieces/RookTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/Chess/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/ChessGUI/ChessGUI.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/test/java/Chess/BoardTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/Chess/Game/Game.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/Chess/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/src/main/java/Chess/PieceColor.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/Chess/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/ChessGUI/PieceIcons.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/Chess/Pieces/Empress.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/test/java/Chess/Pieces/KnightTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/test/java/Chess/Pieces/BishopTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/Chess/Board.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/test/java/Chess/Pieces/PieceTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/test/java/Chess/Pieces/KingTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/Chess/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/Chess/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/Chess/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/Chess/Pieces/Princess.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/test/java/Chess/Game/CustomChessGameTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/Chess/Pieces/King.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/Chess/Game/CustomChessGame.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/test/java/Chess/Game/ChessGameTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/main/java/Chess/Game/ChessGame.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/test/java/Chess/Pieces/PawnTest.java</path>
+</paths>
+<msg>Finished initial GUI</msg>
+</logentry>
+<logentry
+   revision="4652">
+<author>aling3</author>
+<date>2016-02-11T08:33:24.778086Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/.idea/codeStyleSettings.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/resources/ChessGUI/chesspieces/kw.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/java/Chess/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/test/java/Chess/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/resources/ChessGUI/chesspieces/cb.PNG</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/java/Chess/Pieces/Empress.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/java/Chess/Board.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/main/java/Chess/Pieces</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/test/java/Chess/Pieces/PieceTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/test/java/Chess/Game/CustomChessGameTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/resources/ChessGUI/chesspieces/pb.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/Chess.iml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/main/resources/ChessGUI/chesspieces</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/java/Chess/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/java/ChessGUI/ChessGUI.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/test/java/Chess/Game</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/resources/ChessGUI/chesspieces/pw.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/java/ChessGUI/PieceIcons.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/test/java/Chess/Pieces/BishopTest.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/main/java/Chess/Game</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/test/java/Chess/Pieces/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/java/Chess/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/java/Chess/Pieces/Princess.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/.idea</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/resources/ChessGUI/chesspieces/qb.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/test/java/Chess/Game/ChessGameTest.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/test/java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/.idea/encodings.xml</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/.idea/compiler.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/test/java/Chess/Pieces/RookTest.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/main/java/Chess</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/resources/ChessGUI/chesspieces/bb.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/java/Chess/Game/Game.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/test/java/Chess/Pieces</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/main/java/ChessGUI</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/test</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/resources/ChessGUI/chesspieces/eb.PNG</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/java/Chess/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/resources/ChessGUI/chesspieces/qw.png</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/main</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/test/java/Chess/SquareTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/resources/ChessGUI/chesspieces/nb.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/resources/ChessGUI/chesspieces/rb.png</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/main/resources</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/resources/ChessGUI/chesspieces/bw.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/java/Chess/Game/ChessGame.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/test/java/Chess/Pieces/PawnTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/resources/ChessGUI/chesspieces/ew.PNG</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/main/java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/test/java/Chess</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/main/resources/ChessGUI</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/test/java/Chess/Pieces/PieceTester.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/resources/ChessGUI/chesspieces/nw.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/java/Chess/PieceColor.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/resources/ChessGUI/chesspieces/rw.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/test/java/Chess/Pieces/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/resources/ChessGUI/chesspieces/kb.png</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/java/Chess/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/java/Chess/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/java/Chess/Square.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/java/Chess/Pieces/King.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/java/Chess/Game/CustomChessGame.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/main/resources/ChessGUI/chesspieces/cw.png</path>
+</paths>
+<msg>project directory restructured</msg>
+</logentry>
+<logentry
+   revision="4651">
+<author>aling3</author>
+<date>2016-02-11T08:30:07.891910Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/aling3/Assignment1.1/test</path>
+<path
+   kind="dir"
+   action="D">/aling3/Assignment1.1/.idea</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/Chess.iml</path>
+<path
+   kind="dir"
+   action="D">/aling3/Assignment1.1/src</path>
+</paths>
+<msg>deleting to restructure</msg>
+</logentry>
+<logentry
+   revision="4611">
+<author>aling3</author>
+<date>2016-02-11T06:48:09.790815Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/ChessGUI/ChessGUI.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/ChessGUI</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/resources</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/ChessGUI/PieceIcons.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/Chess.iml</path>
+</paths>
+<msg>Added GUI code. Fixing resource loading
+</msg>
+</logentry>
+<logentry
+   revision="4447">
+<author>aling3</author>
+<date>2016-02-10T22:31:41.400821Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/src/Chess/ChessGame.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/.idea/codeStyleSettings.xml</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.1/test/Chess/ChessGameTest.java"
+   copyfrom-rev="4421"
+   action="A">/aling3/Assignment1.1/test/Chess/Game/ChessGameTest.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/test/Chess/Game</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/Game/Game.java</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.1/src/Chess/CustomChessGame.java"
+   copyfrom-rev="4420"
+   action="A">/aling3/Assignment1.1/src/Chess/Game/CustomChessGame.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/test/Chess/ChessGameTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.1/src/Chess/ChessGame.java"
+   copyfrom-rev="4420"
+   action="A">/aling3/Assignment1.1/src/Chess/Game/ChessGame.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/Chess/Game</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/src/Chess/CustomChessGame.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/Game/CustomChessGameTest.java</path>
+</paths>
+<msg>Restructured ChessGame
+</msg>
+</logentry>
+<logentry
+   revision="4421">
+<author>aling3</author>
+<date>2016-02-10T18:53:35.087105Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/test/Chess/ChessGameTest.java</path>
+</paths>
+<msg>Fixed test, mixed up king and queen positions
+</msg>
+</logentry>
+<logentry
+   revision="4420">
+<author>aling3</author>
+<date>2016-02-10T18:53:00.970020Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/ChessGame.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/CustomChessGame.java</path>
+</paths>
+<msg>Added custom game setup
+</msg>
+</logentry>
+<logentry
+   revision="4415">
+<author>aling3</author>
+<date>2016-02-10T18:32:28.166156Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/Pieces/Empress.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/Pieces/Princess.java</path>
+</paths>
+<msg>Added custom pieces
+</msg>
+</logentry>
+<logentry
+   revision="4414">
+<author>aling3</author>
+<date>2016-02-10T17:54:55.118226Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/Doxyfile</path>
+</paths>
+<msg>doxyfile ignores test directory</msg>
+</logentry>
+<logentry
+   revision="4412">
+<author>aling3</author>
+<date>2016-02-10T17:25:11.892463Z</date>
+<paths>
+<path
+   kind="dir"
+   action="M">/aling3/Assignment1.1</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/Doxyfile</path>
+</paths>
+<msg>adding doxyfile</msg>
+</logentry>
+<logentry
+   revision="4401">
+<author>aling3</author>
+<date>2016-02-10T09:03:19.142460Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Piece.java</path>
+</paths>
+<msg>Moved board functions into Piece class
+</msg>
+</logentry>
+<logentry
+   revision="4400">
+<author>aling3</author>
+<date>2016-02-10T09:02:41.308280Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/test/Chess/BoardTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/King.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Board.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Piece.java</path>
+</paths>
+<msg>Moved board functions into Piece class
+</msg>
+</logentry>
+<logentry
+   revision="4398">
+<author>aling3</author>
+<date>2016-02-10T08:46:22.387555Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/ChessGame.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/test/Chess/Pieces/PieceTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Piece.java</path>
+</paths>
+<msg>Moved piece from code function into Piece class
+</msg>
+</logentry>
+<logentry
+   revision="4378">
+<author>aling3</author>
+<date>2016-02-10T05:47:43.633656Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/test/Chess/BoardTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Board.java</path>
+</paths>
+<msg>Added new custom dimension board constructor
+</msg>
+</logentry>
+<logentry
+   revision="4297">
+<author>aling3</author>
+<date>2016-02-10T01:26:15.235766Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/King.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Pawn.java</path>
+</paths>
+<msg>Piece doxygen comments for standard pieces
+</msg>
+</logentry>
+<logentry
+   revision="4293">
+<author>aling3</author>
+<date>2016-02-10T01:20:20.392324Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Square.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Knight.java</path>
+</paths>
+<msg>Piece doxygen comments for Square
+</msg>
+</logentry>
+<logentry
+   revision="4288">
+<author>aling3</author>
+<date>2016-02-10T01:07:26.593171Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Piece.java</path>
+</paths>
+<msg>Piece doxygen comments
+</msg>
+</logentry>
+<logentry
+   revision="4286">
+<author>aling3</author>
+<date>2016-02-10T01:02:08.279169Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/King.java</path>
+</paths>
+<msg>Reduced getMyPossibleMoves logic to a loop
+</msg>
+</logentry>
+<logentry
+   revision="4274">
+<author>aling3</author>
+<date>2016-02-10T00:33:47.166223Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/ChessGame.java</path>
+</paths>
+<msg>Updated doxygen comments for chessgame
+</msg>
+</logentry>
+<logentry
+   revision="4268">
+<author>aling3</author>
+<date>2016-02-10T00:07:37.694085Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Board.java</path>
+</paths>
+<msg>Updated doxygen comments for board</msg>
+</logentry>
+<logentry
+   revision="4170">
+<author>aling3</author>
+<date>2016-02-09T02:59:23.454285Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/ChessGame.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/test/Chess/BoardTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Board.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/test/Chess/ChessGameTest.java</path>
+</paths>
+<msg>Removed unused board method isEmpty</msg>
+</logentry>
+<logentry
+   revision="4165">
+<author>aling3</author>
+<date>2016-02-09T02:41:01.804438Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/ChessGame.java</path>
+</paths>
+<msg>Updated comments for getting legal moves</msg>
+</logentry>
+<logentry
+   revision="4163">
+<author>aling3</author>
+<date>2016-02-09T02:33:20.394458Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/King.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/test/Chess/Pieces/PieceTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Piece.java</path>
+</paths>
+<msg>Removed all unused piece copy constructors</msg>
+</logentry>
+<logentry
+   revision="4158">
+<author>aling3</author>
+<date>2016-02-09T02:28:13.994936Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Board.java</path>
+</paths>
+<msg>Remove unused copy constructor</msg>
+</logentry>
+<logentry
+   revision="4131">
+<author>aling3</author>
+<date>2016-02-08T22:34:58.901546Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Queen.java</path>
+</paths>
+<msg>Refactor queen's movement set function</msg>
+</logentry>
+<logentry
+   revision="4130">
+<author>aling3</author>
+<date>2016-02-08T22:34:13.181235Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Pieces/Piece.java</path>
+</paths>
+<msg>Added precondition to helper function to avoid infinite loop.</msg>
+</logentry>
+<logentry
+   revision="4129">
+<author>aling3</author>
+<date>2016-02-08T22:19:43.345503Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/ChessGame.java</path>
+</paths>
+<msg>Removed un-needed deep copy</msg>
+</logentry>
+<logentry
+   revision="4125">
+<author>aling3</author>
+<date>2016-02-08T20:37:59.791835Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.1/src/Chess/Rook.java"
+   copyfrom-rev="4124"
+   action="A">/aling3/Assignment1.1/src/Chess/Pieces/Rook.java</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.1/test/Chess/KnightTest.java"
+   copyfrom-rev="4124"
+   action="A">/aling3/Assignment1.1/test/Chess/Pieces/KnightTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.1/test/Chess/BishopTest.java"
+   copyfrom-rev="4124"
+   action="A">/aling3/Assignment1.1/test/Chess/Pieces/BishopTest.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/src/Chess/Bishop.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/src/Chess/Knight.java</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.1/src/Chess/GameValues.java"
+   copyfrom-rev="4124"
+   action="A">/aling3/Assignment1.1/src/Chess/PieceColor.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/Board.java</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.1/test/Chess/KingTest.java"
+   copyfrom-rev="4124"
+   action="A">/aling3/Assignment1.1/test/Chess/Pieces/KingTest.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/src/Chess/King.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/Chess/Pieces</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/src/Chess/GameValues.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/test/Chess/PawnTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.1/src/Chess/Piece.java"
+   copyfrom-rev="4124"
+   action="A">/aling3/Assignment1.1/src/Chess/Pieces/Piece.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/src/Chess/ChessGame.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/test/Chess/PieceTester.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/src/Chess/Rook.java</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.1/test/Chess/RookTest.java"
+   copyfrom-rev="4124"
+   action="A">/aling3/Assignment1.1/test/Chess/Pieces/RookTest.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/test/Chess/BishopTest.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/test/Chess/KnightTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.1/src/Chess/Pawn.java"
+   copyfrom-rev="4124"
+   action="A">/aling3/Assignment1.1/src/Chess/Pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/test/Chess/BoardTest.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/test/Chess/KingTest.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/test/Chess/Pieces</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.1/src/Chess/Queen.java"
+   copyfrom-rev="4124"
+   action="A">/aling3/Assignment1.1/src/Chess/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/src/Chess/Piece.java</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.1/test/Chess/PieceTest.java"
+   copyfrom-rev="4124"
+   action="A">/aling3/Assignment1.1/test/Chess/Pieces/PieceTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.1/test/Chess/ChessGameTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.1/src/Chess/Knight.java"
+   copyfrom-rev="4124"
+   action="A">/aling3/Assignment1.1/src/Chess/Pieces/Knight.java</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.1/src/Chess/Bishop.java"
+   copyfrom-rev="4124"
+   action="A">/aling3/Assignment1.1/src/Chess/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.1/src/Chess/King.java"
+   copyfrom-rev="4124"
+   action="A">/aling3/Assignment1.1/src/Chess/Pieces/King.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/test/Chess/RookTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.1/test/Chess/PawnTest.java"
+   copyfrom-rev="4124"
+   action="A">/aling3/Assignment1.1/test/Chess/Pieces/PawnTest.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/src/Chess/Pawn.java</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.1/test/Chess/PieceTester.java"
+   copyfrom-rev="4124"
+   action="A">/aling3/Assignment1.1/test/Chess/Pieces/PieceTester.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/test/Chess/PieceTest.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.1/src/Chess/Queen.java</path>
+</paths>
+<msg>redoing 1.1 directory structure</msg>
+</logentry>
+<logentry
+   revision="4124">
+<author>aling3</author>
+<date>2016-02-08T20:30:32.090109Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/Knight.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/Board.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/King.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/GameValues.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/PawnTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/ChessGame.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/Square.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/test</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/PieceTester.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/Chess.iml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/Rook.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/KnightTest.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/test/resources</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/BoardTest.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/Chess</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/KingTest.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/Piece.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/ChessGameTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/SquareTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/RookTest.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/.idea</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/Pawn.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/test/Chess</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/Queen.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/PieceTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/.idea/compiler.xml</path>
+</paths>
+<msg>redoing 1.1 directory</msg>
+</logentry>
+<logentry
+   revision="4123">
+<author>aling3</author>
+<date>2016-02-08T20:27:39.504185Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/aling3/Assignment1.1</path>
+</paths>
+<msg>redoing 1.1 directory</msg>
+</logentry>
+<logentry
+   revision="4122">
+<author>aling3</author>
+<date>2016-02-08T20:14:14.560475Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/KingTest.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src/Chess</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/Knight.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/Bishop.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/Piece.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/Board.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/ChessGameTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/King.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/SquareTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/GameValues.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/PawnTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/ChessGame.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/Square.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/RookTest.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/test</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/PieceTester.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/Pawn.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/test/Chess</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/Chess.iml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/src</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/BishopTest.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.1/test/resources</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/test/Chess/PieceTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.1/src/Chess/Queen.java</path>
+</paths>
+<msg>Assignment 1.1</msg>
+</logentry>
+<logentry
+   revision="3776">
+<author>aling3</author>
+<date>2016-02-05T16:17:28.030179Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/ChessGameTest.java</path>
+</paths>
+<msg>Fixed comment typo</msg>
+</logentry>
+<logentry
+   revision="3775">
+<author>aling3</author>
+<date>2016-02-05T16:16:12.335698Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/ChessGameTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/Chess.iml</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/ChessGame.java</path>
+</paths>
+<msg>More stalemate tests</msg>
+</logentry>
+<logentry
+   revision="3762">
+<author>aling3</author>
+<date>2016-02-05T15:27:22.429583Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/ChessGame.java</path>
+</paths>
+<msg>Updated some comments</msg>
+</logentry>
+<logentry
+   revision="3753">
+<author>aling3</author>
+<date>2016-02-05T11:55:36.074545Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/ChessGame.java</path>
+</paths>
+<msg>Updated chessgame-missed moveupdate</msg>
+</logentry>
+<logentry
+   revision="3748">
+<author>aling3</author>
+<date>2016-02-05T11:39:24.884327Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/ChessGame.java</path>
+</paths>
+<msg>Updated chessgame</msg>
+</logentry>
+<logentry
+   revision="3747">
+<author>aling3</author>
+<date>2016-02-05T11:21:06.957011Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/ChessGameTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/ChessGame.java</path>
+</paths>
+<msg>Updated comments on piece tests</msg>
+</logentry>
+<logentry
+   revision="3743">
+<author>aling3</author>
+<date>2016-02-05T10:53:33.232223Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/KingTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/test/Chess/PieceTester.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/ChessGameTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/SquareTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/BishopTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/KnightTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/PieceTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/ChessGame.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/BoardTest.java</path>
+</paths>
+<msg>Updated comments on piece tests</msg>
+</logentry>
+<logentry
+   revision="3727">
+<author>aling3</author>
+<date>2016-02-05T09:54:37.138597Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Knight.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Piece.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Board.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/King.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Rook.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Queen.java</path>
+</paths>
+<msg>Updated comments on piece tests</msg>
+</logentry>
+<logentry
+   revision="3715">
+<author>aling3</author>
+<date>2016-02-05T09:21:29.570902Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/KingTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/RookTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Piece.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Board.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/ChessGameTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/BishopTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/KnightTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/ChessGame.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/BoardTest.java</path>
+</paths>
+<msg>Updated comments on board and piece</msg>
+</logentry>
+<logentry
+   revision="3704">
+<author>aling3</author>
+<date>2016-02-05T08:00:56.256952Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/ChessGameTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/BishopTest.java</path>
+</paths>
+<msg>Game logic tests</msg>
+</logentry>
+<logentry
+   revision="3694">
+<author>aling3</author>
+<date>2016-02-05T07:13:33.778283Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/RookTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Piece.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Board.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/test/Chess/ChessGameTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/King.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/ChessGame.java</path>
+</paths>
+<msg>Game logic tests</msg>
+</logentry>
+<logentry
+   revision="3642">
+<author>aling3</author>
+<date>2016-02-05T03:59:06.500352Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/test/Chess/KingTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/King.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/test/Chess/KnightTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/ChessGame.java</path>
+</paths>
+<msg>Pieces tested</msg>
+</logentry>
+<logentry
+   revision="3629">
+<author>aling3</author>
+<date>2016-02-05T03:11:31.386349Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/test/Chess/RookTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Piece.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/test/Chess/BishopTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/PieceTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/ChessGame.java</path>
+</paths>
+<msg>Rook tests working</msg>
+</logentry>
+<logentry
+   revision="3605">
+<author>aling3</author>
+<date>2016-02-05T01:56:57.443385Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Knight.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Piece.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Board.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/King.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Rook.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Queen.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/PieceTest.java</path>
+</paths>
+<msg>More piece testing on clones</msg>
+</logentry>
+<logentry
+   revision="3572">
+<author>aling3</author>
+<date>2016-02-05T00:49:23.564685Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/src/Chess/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/src/Chess/Knight.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/src/Chess/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Piece.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Board.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/src/Chess/King.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/src/Chess/Rook.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/src/Chess/Queen.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/PieceTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/ChessGame.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/BoardTest.java</path>
+</paths>
+<msg>Adding game logic, broke up Piece class</msg>
+</logentry>
+<logentry
+   revision="3346">
+<author>aling3</author>
+<date>2016-02-04T08:21:08.731445Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Piece.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Board.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/SquareTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/ChessGame.java</path>
+</paths>
+<msg>Adding game logic</msg>
+</logentry>
+<logentry
+   revision="3285">
+<author>aling3</author>
+<date>2016-02-04T05:29:46.647943Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Board.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/test/Chess/PawnTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/PieceTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/BoardTest.java</path>
+</paths>
+<msg>Added  board tests</msg>
+</logentry>
+<logentry
+   revision="3272">
+<author>aling3</author>
+<date>2016-02-04T04:41:02.598692Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Piece.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/Chess.iml</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.0/test/resources</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/PieceTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/BoardTest.java</path>
+</paths>
+<msg>Added piece tests</msg>
+</logentry>
+<logentry
+   revision="3256">
+<author>aling3</author>
+<date>2016-02-04T03:49:22.323462Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/SquareTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/test/Chess/BoardTest.java</path>
+</paths>
+<msg>Board and Square tests added</msg>
+</logentry>
+<logentry
+   revision="3255">
+<author>aling3</author>
+<date>2016-02-04T03:49:02.760200Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Piece.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Board.java</path>
+</paths>
+<msg>Board and Square tests a</msg>
+</logentry>
+<logentry
+   revision="3248">
+<author>aling3</author>
+<date>2016-02-04T03:04:59.745149Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/aling3/Assignment1.0/src/Chess"
+   copyfrom-rev="3219"
+   action="R">/aling3/Assignment1.0/src/Chess</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.0/src/Chess/Square.java"
+   copyfrom-rev="3220"
+   action="A">/aling3/Assignment1.0/src/Chess/Square.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.0/test</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.0/src/Chess/Piece.java"
+   copyfrom-rev="3220"
+   action="A">/aling3/Assignment1.0/src/Chess/Piece.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/Chess/Board.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.0/test/Chess</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/test/Chess/SquareTest.java</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.0/src/Chess/Colors.java"
+   copyfrom-rev="3220"
+   action="A">/aling3/Assignment1.0/src/Chess/GameValues.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/Chess.iml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/test/Chess/PieceTest.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/.idea/vcs.xml</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.0/src/Chess/ChessGame.java"
+   copyfrom-rev="3220"
+   action="A">/aling3/Assignment1.0/src/Chess/ChessGame.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/test/Chess/BoardTest.java</path>
+</paths>
+<msg>Commit test directories</msg>
+</logentry>
+<logentry
+   revision="3220">
+<author>aling3</author>
+<date>2016-02-04T00:44:27.246971Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.0/src/Piece.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/src/Chess/Square.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/src/Chess/Colors.java</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.0/src/Piece.java"
+   copyfrom-rev="3121"
+   action="A">/aling3/Assignment1.0/src/Chess/Piece.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.0/src/ChessGame.java</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.0/src/ChessGame.java"
+   copyfrom-rev="3121"
+   action="A">/aling3/Assignment1.0/src/Chess/ChessGame.java</path>
+</paths>
+<msg>Recommitting files</msg>
+</logentry>
+<logentry
+   revision="3219">
+<author>aling3</author>
+<date>2016-02-04T00:43:24.807517Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.0/src/Chess</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/Assignment1.0/src/ChessBoard.java"
+   copyfrom-rev="3121"
+   action="A">/aling3/Assignment1.0/src/Chess/Board.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.0/src/ChessBoard.java</path>
+</paths>
+<msg>Fix forloop mistake</msg>
+</logentry>
+<logentry
+   revision="3121">
+<author>aling3</author>
+<date>2016-02-03T03:22:39.191753Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/src/Piece.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment1.0/src/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/src/ChessGame.java</path>
+<path
+   kind="file"
+   action="D">/aling3/Assignment1.0/src/Square.java</path>
+</paths>
+<msg>Add Piece abstract and Chessgame class</msg>
+</logentry>
+<logentry
+   revision="3000">
+<author>aling3</author>
+<date>2016-02-02T01:20:07.516708Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.0/.idea</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/src/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/Chess.iml</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.0/src</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/src/Square.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.0/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/.idea/compiler.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment1.0/.idea/copyright/profiles_settings.xml</path>
+</paths>
+<msg>Added Chess project</msg>
+</logentry>
+<logentry
+   revision="2997">
+<author>aling3</author>
+<date>2016-02-02T00:41:27.489031Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment1.0</path>
+</paths>
+<msg>Asn1.0 dir added</msg>
+</logentry>
+<logentry
+   revision="2115">
+<author>aling3</author>
+<date>2016-01-29T01:15:08.499127Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part3/mpmerge/mpsortutil.h</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment0/part3/mpmerge/data</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part3/mpmerge/index.html</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part3/mpmerge/Makefile</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part3/mpmerge/baseline_nothread_mergesort.c</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part3/mpmerge/blocking_ring_buffer.c</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part3/mpmerge/streamingsort.c</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part3/mpmerge/multithreadedsort.c</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part3/mpmerge/blocking_ring_buffer.h</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part3/mpmerge/tester.c</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part3/mpmerge/gen.c</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part3/mpmerge/base.c</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment0/part3/mpmerge</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part3/mpmerge/mpsortutil.c</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part3/mpmerge/main.c</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part3/mpmerge/testqueue.c</path>
+</paths>
+<msg>part2 sample code</msg>
+</logentry>
+<logentry
+   revision="2106">
+<author>aling3</author>
+<date>2016-01-29T00:51:49.802918Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment0/part2/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment0/part2/HW0/src/lanSimulation/Network.java</path>
+</paths>
+<msg>part2b - moved writeNodeMsg</msg>
+</logentry>
+<logentry
+   revision="2105">
+<author>aling3</author>
+<date>2016-01-29T00:46:14.944978Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment0/part2/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="M">/aling3/Assignment0/part2/HW0/src/lanSimulation/Network.java</path>
+</paths>
+<msg>part2b - moved printDocument and writeAccountingReport</msg>
+</logentry>
+<logentry
+   revision="2098">
+<author>aling3</author>
+<date>2016-01-29T00:36:00.813011Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/Assignment0/part2/HW0/src/lanSimulation/Network.java</path>
+</paths>
+<msg>part2a - extract method on printDocument, requestBroadcast, requestWorkstationPrintsDocument</msg>
+</logentry>
+<logentry
+   revision="1483">
+<author>aling3</author>
+<date>2016-01-28T06:35:30.498635Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment0/part2/HW0/doc</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/javadoc.xml</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/COPYING</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment0/part2/HW0/bin</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment0/part2/HW0/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/bin/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment0/part2/HW0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment0/part2/HW0</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/doc/README</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment0/part2/HW0/src/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment0/part2/HW0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment0/part2/HW0/.settings</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/src/lanSimulation/Network.java</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/.project</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment0/part2/HW0/bin/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment0/part2/HW0/src</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment0/part2/HW0/bin/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/useOutput.txt</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/.classpath</path>
+<path
+   kind="file"
+   action="A">/aling3/Assignment0/part2/HW0/bin/lanSimulation/internals/Packet.class</path>
+</paths>
+<msg>added hw0 folder</msg>
+</logentry>
+<logentry
+   revision="1476">
+<author>aling3</author>
+<date>2016-01-28T06:30:38.859326Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/aling3/shopping"
+   copyfrom-rev="1467"
+   action="A">/aling3/Assignment0/part1/shopping</path>
+<path
+   kind="dir"
+   action="D">/aling3/shopping</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment0/part1</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/shopping/list1.txt"
+   copyfrom-rev="1462"
+   action="R">/aling3/Assignment0/part1/shopping/list1.txt</path>
+<path
+   kind="file"
+   copyfrom-path="/aling3/shopping/list2.txt"
+   copyfrom-rev="1462"
+   action="R">/aling3/Assignment0/part1/shopping/list2.txt</path>
+</paths>
+<msg>Set up assignment 1 folder</msg>
+</logentry>
+<logentry
+   revision="1467">
+<author>aling3</author>
+<date>2016-01-28T06:21:29.700089Z</date>
+<paths>
+<path
+   kind="dir"
+   action="M">/aling3/shopping</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment0</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment0/part2</path>
+<path
+   kind="dir"
+   action="A">/aling3/Assignment0/part3</path>
+</paths>
+<msg>Added assignment0 folder</msg>
+</logentry>
+<logentry
+   revision="586">
+<author>aling3</author>
+<date>2016-01-27T00:26:19.544482Z</date>
+<paths>
+<path
+   kind="dir"
+   action="M">/aling3/shopping</path>
+</paths>
+<msg>Ignored the list3.txt from all future commits</msg>
+</logentry>
+<logentry
+   revision="542">
+<author>aling3</author>
+<date>2016-01-26T23:05:59.908040Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/aling3/grocery"
+   copyfrom-rev="541"
+   action="A">/aling3/shopping</path>
+<path
+   kind="dir"
+   action="D">/aling3/grocery</path>
+</paths>
+<msg>Moved grocery to shopping for clarity</msg>
+</logentry>
+<logentry
+   revision="540">
+<author>aling3</author>
+<date>2016-01-26T23:01:42.412622Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/aling3/grocery/list3.txt</path>
+</paths>
+<msg>Discovered that I want to be a vegetarian</msg>
+</logentry>
+<logentry
+   revision="539">
+<author>aling3</author>
+<date>2016-01-26T23:00:57.641239Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/grocery/list3.txt</path>
+</paths>
+<msg>Added list of meats</msg>
+</logentry>
+<logentry
+   revision="532">
+<author>aling3</author>
+<date>2016-01-26T22:53:26.203775Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="529">
+<author>aling3</author>
+<date>2016-01-26T22:47:54.647658Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/grocery/list2.txt</path>
+</paths>
+<msg>Put emphasis on carrot</msg>
+</logentry>
+<logentry
+   revision="528">
+<author>aling3</author>
+<date>2016-01-26T22:45:36.876087Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/grocery/list2.txt</path>
+</paths>
+<msg>Added more important vegetable</msg>
+</logentry>
+<logentry
+   revision="518">
+<author>aling3</author>
+<date>2016-01-26T22:29:03.741835Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="516">
+<author>aling3</author>
+<date>2016-01-26T21:54:38.528661Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/aling3/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit </msg>
+</logentry>
+<logentry
+   revision="515">
+<author>aling3</author>
+<date>2016-01-26T21:50:59.469231Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/aling3/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/aling3/grocery/list2.txt</path>
+<path
+   kind="dir"
+   action="A">/aling3/grocery</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="19">
+<author>root</author>
+<date>2016-01-21T17:21:37.365008Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/aling3</path>
+</paths>
+<msg>created directory aling3</msg>
+</logentry>
+</log>
